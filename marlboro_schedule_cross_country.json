@@ -1,0 +1,88 @@
+{
+  "Cross Country": {
+    "coed": {
+      "Coed Varsity": {
+        "Coed Varsity Event home vs Away vs. TBA, TBA Holmdel": {
+          "date": "2025-09-09",
+          "location": "Cross Country: Varsity 4:10PM Away vs. TBA, TBA Holmdel Park",
+          "time": "4:10PM",
+          "opponent": "Away vs. TBA, TBA Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Thompson": {
+          "date": "2025-09-13",
+          "location": "Cross Country: Varsity 9:00AM Away vs. TBA, TBA Thompson Park",
+          "time": "9:00AM",
+          "opponent": "Away vs. TBA, TBA Thompson",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Thompson (2025-09-27 9:00AM)": {
+          "date": "2025-09-27",
+          "location": "Cross Country: Varsity 9:00AM Away vs. TBA, TBA Thompson Park",
+          "time": "9:00AM",
+          "opponent": "Away vs. TBA, TBA Thompson",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Holmdel": {
+          "date": "2025-10-04",
+          "location": "Cross Country: Varsity 9:00AM Away vs. TBA, TBA Holmdel Park",
+          "time": "9:00AM",
+          "opponent": "Away vs. TBA, TBA Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs Away vs. TBA, TBA Holmdel (2025-10-14 3:30PM)": {
+          "date": "2025-10-14",
+          "location": "Cross Country: Varsity 3:30PM Away vs. TBA, TBA Holmdel Park",
+          "time": "3:30PM",
+          "opponent": "Away vs. TBA, TBA Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs Away vs. TBA, TBA Ocean County": {
+          "date": "2025-10-23",
+          "location": "Cross Country: Varsity 3:45PM Away vs. TBA, TBA Ocean County Park",
+          "time": "3:45PM",
+          "opponent": "Away vs. TBA, TBA Ocean County",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Ocean County": {
+          "date": "2025-10-28",
+          "location": "Cross Country: Varsity 4:00PM Away vs. TBA, TBA Ocean County Park",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA Ocean County",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Championship home vs Away vs. TBA, TBA Thompson": {
+          "date": "2025-11-01",
+          "location": "Cross Country: Varsity 12:00PM Away vs. TBA, TBA Thompson Park",
+          "time": "12:00PM",
+          "opponent": "Away vs. TBA, TBA Thompson",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Championship home vs Away vs. TBA, TBA Holmdel": {
+          "date": "2025-11-08",
+          "location": "Cross Country: Varsity 2:30PM Away vs. TBA, TBA Holmdel Park",
+          "time": "2:30PM",
+          "opponent": "Away vs. TBA, TBA Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. TBA, TBA Holmdel": {
+          "date": "2025-11-15",
+          "location": "Cross Country: Varsity 11:00AM Away vs. TBA, TBA Holmdel Park",
+          "time": "11:00AM",
+          "opponent": "Away vs. TBA, TBA Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      }
+    }
+  }
+}

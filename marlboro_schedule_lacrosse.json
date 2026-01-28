@@ -1,0 +1,522 @@
+{
+  "Lacrosse": {
+    "girls": {
+      "Girls Level": {
+        "Girls Level Event home": {
+          "date": "2025-10-09",
+          "location": "C-101 Girls Lacrosse Interest meeting",
+          "time": "8:00AM-8:30AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Level Event home (2026-01-21 8:00AM-8:30AM)": {
+          "date": "2026-01-21",
+          "location": "C-101",
+          "time": "8:00AM-8:30AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        }
+      },
+      "Girls Varsity": {
+        "Girls Varsity Game home": {
+          "date": "2026-03-27",
+          "location": "Lacrosse: Girls Varsity 4:00PM Lacey H.S. Marlboro High Game School Lacrosse Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-03-28 11:00AM)": {
+          "date": "2026-03-28",
+          "location": "Lacrosse: Girls Varsity 11:00AM Middletown H.S. Marlboro High Game North School Lacrosse Field",
+          "time": "11:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-03-31 11:30AM)": {
+          "date": "2026-03-31",
+          "location": "Lacrosse: Girls Varsity 11:30AM North Brunswick Marlboro High Game School Lacrosse Field",
+          "time": "11:30AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Howell Howell": {
+          "date": "2026-04-02",
+          "location": "Lacrosse: Girls Varsity 10:00AM Away vs. Howell Howell High School Game H.S.",
+          "time": "10:00AM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Barnegat Barnegat High Game": {
+          "date": "2026-04-07",
+          "location": "Game School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Barnegat Barnegat High Game",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-04-09 4:00PM)": {
+          "date": "2026-04-09",
+          "location": "Lacrosse: Girls Varsity 4:00PM Toms River South Marlboro High Game H.S. School Lacrosse Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-04-10 4:00PM)": {
+          "date": "2026-04-10",
+          "location": "Lacrosse: Girls Varsity 4:00PM St. Rose H.S. Marlboro High Game School Lacrosse Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Holmdel Holmdel": {
+          "date": "2026-04-13",
+          "location": "Lacrosse: Girls Varsity 4:00PM Away vs. Holmdel Holmdel High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Monmouth Monmouth Regional Game Reg. H.S.": {
+          "date": "2026-04-15",
+          "location": "Game Reg. H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Monmouth Monmouth Regional Game Reg. H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-04-16 4:00PM)": {
+          "date": "2026-04-16",
+          "location": "Lacrosse: Girls Varsity 4:00PM Jackson Township Marlboro High Game School Lacrosse Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Point Point Pleasant Beach Game Pleasant Beach": {
+          "date": "2026-04-20",
+          "location": "Game Pleasant Beach High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Point Point Pleasant Beach Game Pleasant Beach",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Freehold Freehold Township Game Township H.S.": {
+          "date": "2026-04-23",
+          "location": "Game Township H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Freehold Freehold Township Game Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Neptune Neptune": {
+          "date": "2026-04-28",
+          "location": "Lacrosse: Girls Varsity 4:00PM Away vs. Neptune Neptune High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Neptune Neptune",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Ocean Ocean Township Game Twp.": {
+          "date": "2026-04-30",
+          "location": "Game Twp. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Ocean Ocean Township Game Twp.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-05-04 4:00PM)": {
+          "date": "2026-05-04",
+          "location": "Lacrosse: Girls Varsity 4:00PM Toms River North Marlboro High Game H.S. School Lacrosse Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-05-07 5:30PM)": {
+          "date": "2026-05-07",
+          "location": "Lacrosse: Girls Varsity 5:30PM Manchester Marlboro High Game Regional School Lacrosse Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Event home vs Away vs. TBA, TBA TBA": {
+          "date": "2026-05-13",
+          "location": "",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA TBA",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2026-05-20 6:00PM)": {
+          "date": "2026-05-20",
+          "location": "Lacrosse: Girls Varsity 6:00PM Toms River East Marlboro High Game H.S. School Lacrosse Field",
+          "time": "6:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        }
+      },
+      "Girls JV": {
+        "Girls JV Game home": {
+          "date": "2026-03-27",
+          "location": "Lacrosse: Girls JV Game 5:30PM Lacey H.S. Marlboro High School Lacrosse Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-03-28 10:00AM)": {
+          "date": "2026-03-28",
+          "location": "Lacrosse: Girls JV Game 10:00AM Middletown H.S. Marlboro High North School Lacrosse Field",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-03-31 10:00AM)": {
+          "date": "2026-03-31",
+          "location": "Lacrosse: Girls JV Game 10:00AM North Brunswick Marlboro High School Lacrosse Field",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Howell Howell": {
+          "date": "2026-04-02",
+          "location": "Lacrosse: Girls JV Game 11:30AM Away vs. Howell Howell High School H.S.",
+          "time": "11:30AM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Barnegat Barnegat": {
+          "date": "2026-04-07",
+          "location": "School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Barnegat Barnegat",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-04-09 5:30PM)": {
+          "date": "2026-04-09",
+          "location": "Lacrosse: Girls JV Game 5:30PM Toms River South Marlboro High H.S. School Lacrosse Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-04-10 5:30PM)": {
+          "date": "2026-04-10",
+          "location": "Lacrosse: Girls JV Game 5:30PM St. Rose H.S. Marlboro High School Lacrosse Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Holmdel Holmdel": {
+          "date": "2026-04-13",
+          "location": "Lacrosse: Girls JV Game 5:30PM Away vs. Holmdel Holmdel High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Monmouth Monmouth Regional Reg. H.S.": {
+          "date": "2026-04-15",
+          "location": "Reg. H.S. High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Monmouth Monmouth Regional Reg. H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-04-16 5:30PM)": {
+          "date": "2026-04-16",
+          "location": "Lacrosse: Girls JV Game 5:30PM Jackson Township Marlboro High School Lacrosse Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Point Point Pleasant Beach Pleasant Beach": {
+          "date": "2026-04-20",
+          "location": "Pleasant Beach High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Point Point Pleasant Beach Pleasant Beach",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Freehold Freehold Township Township H.S.": {
+          "date": "2026-04-23",
+          "location": "Township H.S. High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Freehold Freehold Township Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Neptune Neptune": {
+          "date": "2026-04-28",
+          "location": "Lacrosse: Girls JV Game 5:30PM Away vs. Neptune Neptune High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Neptune Neptune",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Ocean Ocean Township Twp.": {
+          "date": "2026-04-30",
+          "location": "Twp. High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Ocean Ocean Township Twp.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-05-04 5:30PM)": {
+          "date": "2026-05-04",
+          "location": "Lacrosse: Girls JV Game 5:30PM Toms River North Marlboro High H.S. School Lacrosse Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2026-05-07 4:00PM)": {
+          "date": "2026-05-07",
+          "location": "Lacrosse: Girls JV Game 4:00PM Manchester Marlboro High Regional School Lacrosse Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        }
+      }
+    },
+    "boys": {
+      "Boys Varsity": {
+        "Boys Varsity Game home vs Away vs. Ocean Ocean Township Game Twp.": {
+          "date": "2026-03-31",
+          "location": "Game Twp. High School",
+          "time": "10:00AM",
+          "opponent": "Away vs. Ocean Ocean Township Game Twp.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home": {
+          "date": "2026-04-08",
+          "location": "Lacrosse: Boys Varsity 5:30PM Red Bank Catholic Marlboro High Game H.S. School Stadium Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Sayreville Sayreville War Game War Memorial Memorial": {
+          "date": "2026-04-09",
+          "location": "School",
+          "time": "5:00PM",
+          "opponent": "Away vs. Sayreville Sayreville War Game War Memorial Memorial",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Edison Edison": {
+          "date": "2026-04-11",
+          "location": "Lacrosse: Boys Varsity 10:30AM Away vs. Edison Edison High School",
+          "time": "10:30AM",
+          "opponent": "Away vs. Edison Edison",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Colts Neck Colts Neck High Game": {
+          "date": "2026-04-13",
+          "location": "Game High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High Game",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2026-04-15 5:30PM)": {
+          "date": "2026-04-15",
+          "location": "Lacrosse: Boys Varsity 5:30PM Jackson Township Marlboro High Game School Stadium Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2026-04-17 5:30PM)": {
+          "date": "2026-04-17",
+          "location": "Lacrosse: Boys Varsity 5:30PM Brick Memorial H.S. Marlboro High Game School Stadium Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Freehold Freehold Township Game Township H.S.": {
+          "date": "2026-04-22",
+          "location": "Game Township H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Freehold Freehold Township Game Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2026-04-25 11:30AM)": {
+          "date": "2026-04-25",
+          "location": "Lacrosse: Boys Varsity 11:30AM Hightstown Marlboro High Game School Stadium Field",
+          "time": "11:30AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Toms River Toms River North Game North H.S.": {
+          "date": "2026-04-29",
+          "location": "Game North H.S. High School",
+          "time": "6:30PM",
+          "opponent": "Away vs. Toms River Toms River North Game North H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2026-05-01 5:30PM)": {
+          "date": "2026-05-01",
+          "location": "Lacrosse: Boys Varsity 5:30PM Toms River South Marlboro High Game H.S. School Stadium Field",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Saint St Joseph by the Game Joseph by the Sea Sea": {
+          "date": "2026-05-05",
+          "location": "",
+          "time": "6:00PM",
+          "opponent": "Away vs. Saint St Joseph by the Game Joseph by the Sea Sea",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2026-05-06 4:00PM)": {
+          "date": "2026-05-06",
+          "location": "Lacrosse: Boys Varsity 4:00PM Brick Township Marlboro High Game H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. West West Windsor- Game Windsor-Plainsboro Plainsboro South South / Grover Middle": {
+          "date": "2026-05-12",
+          "location": "",
+          "time": "4:00PM",
+          "opponent": "Away vs. West West Windsor- Game Windsor-Plainsboro Plainsboro South South / Grover Middle",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Event home vs Away vs. TBA, TBA TBA": {
+          "date": "2026-05-13",
+          "location": "",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA TBA",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        }
+      },
+      "Boys JV": {
+        "Boys JV Game home vs Away vs. Ocean Ocean Township Twp.": {
+          "date": "2026-03-31",
+          "location": "Twp. High School",
+          "time": "11:30AM",
+          "opponent": "Away vs. Ocean Ocean Township Twp.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home": {
+          "date": "2026-04-08",
+          "location": "Lacrosse: Boys JV Game 4:00PM Red Bank Catholic Marlboro High H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Sayreville Sayreville War War Memorial Memorial": {
+          "date": "2026-04-09",
+          "location": "School",
+          "time": "6:30PM",
+          "opponent": "Away vs. Sayreville Sayreville War War Memorial Memorial",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Colts Neck Colts Neck High": {
+          "date": "2026-04-13",
+          "location": "High School School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home (2026-04-15 4:00PM)": {
+          "date": "2026-04-15",
+          "location": "Lacrosse: Boys JV Game 4:00PM Jackson Township Marlboro High School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home (2026-04-17 4:00PM)": {
+          "date": "2026-04-17",
+          "location": "Lacrosse: Boys JV Game 4:00PM Brick Memorial H.S. Marlboro High School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Freehold Freehold Township Township H.S.": {
+          "date": "2026-04-22",
+          "location": "Township H.S. High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Freehold Freehold Township Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home (2026-04-25 10:00AM)": {
+          "date": "2026-04-25",
+          "location": "Lacrosse: Boys JV Game 10:00AM Hightstown Marlboro High School Lacrosse Field",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Toms River Toms River North North H.S.": {
+          "date": "2026-04-29",
+          "location": "North H.S. High School",
+          "time": "5:00PM",
+          "opponent": "Away vs. Toms River Toms River North North H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home (2026-05-01 4:00PM)": {
+          "date": "2026-05-01",
+          "location": "Lacrosse: Boys JV Game 4:00PM Toms River South Marlboro High H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Saint St Joseph by the Joseph by the Sea Sea": {
+          "date": "2026-05-05",
+          "location": "",
+          "time": "7:00PM",
+          "opponent": "Away vs. Saint St Joseph by the Joseph by the Sea Sea",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. West West Windsor- Windsor-Plainsboro Plainsboro South South / Grover Middle": {
+          "date": "2026-05-12",
+          "location": "",
+          "time": "5:30PM",
+          "opponent": "Away vs. West West Windsor- Windsor-Plainsboro Plainsboro South South / Grover Middle",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        }
+      }
+    }
+  }
+}
