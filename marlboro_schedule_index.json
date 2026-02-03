@@ -1,0 +1,81 @@
+{
+  "generatedFrom": "Calendar Report.pdf",
+  "asOf": "2026-01-23",
+  "segments": [
+    {
+      "sport": "Baseball",
+      "filename": "marlboro_schedule_baseball.json",
+      "bytes": 17824
+    },
+    {
+      "sport": "Basketball",
+      "filename": "marlboro_schedule_basketball.json",
+      "bytes": 32683
+    },
+    {
+      "sport": "Cheerleading",
+      "filename": "marlboro_schedule_cheerleading.json",
+      "bytes": 3988
+    },
+    {
+      "sport": "Cross Country",
+      "filename": "marlboro_schedule_cross_country.json",
+      "bytes": 3563
+    },
+    {
+      "sport": "Dance Team",
+      "filename": "marlboro_schedule_dance_team.json",
+      "bytes": 22822
+    },
+    {
+      "sport": "Football",
+      "filename": "marlboro_schedule_football.json",
+      "bytes": 8362
+    },
+    {
+      "sport": "Ice Hockey",
+      "filename": "marlboro_schedule_ice_hockey.json",
+      "bytes": 5963
+    },
+    {
+      "sport": "Lacrosse",
+      "filename": "marlboro_schedule_lacrosse.json",
+      "bytes": 20818
+    },
+    {
+      "sport": "Soccer",
+      "filename": "marlboro_schedule_soccer.json",
+      "bytes": 39494
+    },
+    {
+      "sport": "Softball",
+      "filename": "marlboro_schedule_softball.json",
+      "bytes": 14250
+    },
+    {
+      "sport": "Swimming",
+      "filename": "marlboro_schedule_swimming.json",
+      "bytes": 3071
+    },
+    {
+      "sport": "Tennis",
+      "filename": "marlboro_schedule_tennis.json",
+      "bytes": 10035
+    },
+    {
+      "sport": "Track",
+      "filename": "marlboro_schedule_track.json",
+      "bytes": 5214
+    },
+    {
+      "sport": "Volleyball",
+      "filename": "marlboro_schedule_volleyball.json",
+      "bytes": 27149
+    },
+    {
+      "sport": "Wrestling",
+      "filename": "marlboro_schedule_wrestling.json",
+      "bytes": 16998
+    }
+  ]
+}

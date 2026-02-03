@@ -1,0 +1,212 @@
+{
+  "Football": {
+    "coed": {
+      "Coed Freshman": {
+        "Coed Freshman Game home vs Away vs. Colts Neck Colts Neck High": {
+          "date": "2025-08-28",
+          "location": "High School School",
+          "time": "9:00AM",
+          "opponent": "Away vs. Colts Neck Colts Neck High",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Freshman Game home": {
+          "date": "2025-09-04",
+          "location": "Football: Freshman Game 4:00PM Toms River South Marlboro High H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Freshman Game home (2025-09-11 4:00PM)": {
+          "date": "2025-09-11",
+          "location": "Football: Freshman Game 4:00PM Middletown H.S. Marlboro High North School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Freshman Game home vs Away vs. Rumson Rumson-Fair Haven Fair Haven H.S.": {
+          "date": "2025-09-18",
+          "location": "Fair Haven H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Rumson Rumson-Fair Haven Fair Haven H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Freshman Game home vs Away vs. Howell Howell": {
+          "date": "2025-10-03",
+          "location": "Football: Freshman Game 5:15PM Away vs. Howell Howell High School (Time Changed) H.S.",
+          "time": "5:15PM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Freshman Game home (2025-10-09 4:00PM)": {
+          "date": "2025-10-09",
+          "location": "Football: Freshman Game 4:00PM Holmdel Marlboro High (Cancelled) School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Freshman Game home vs Away vs. Wall Wall Township High Township": {
+          "date": "2025-10-16",
+          "location": "Township School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Wall Wall Township High Township",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      },
+      "Coed Varsity": {
+        "Coed Varsity Game home": {
+          "date": "2025-08-28",
+          "location": "Football: Varsity Game 7:00PM Colts Neck High Marlboro High School School Stadium Field",
+          "time": "7:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs Away vs. Toms River Toms River South  South H.S.": {
+          "date": "2025-09-05",
+          "location": "South H.S. High School",
+          "time": "6:00PM",
+          "opponent": "Away vs. Toms River Toms River South  South H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs Away vs. Middletown High Middletown H.S.": {
+          "date": "2025-09-12",
+          "location": "Middletown H.S. School North",
+          "time": "7:00PM",
+          "opponent": "Away vs. Middletown High Middletown H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home (2025-09-19 7:00PM)": {
+          "date": "2025-09-19",
+          "location": "Football: Varsity Game 7:00PM Rumson Fair Haven Marlboro High H.S. School Stadium Field",
+          "time": "7:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home (2025-09-26 7:00PM)": {
+          "date": "2025-09-26",
+          "location": "Football: Varsity Game 7:00PM Middletown H.S. Marlboro High South School Stadium Field",
+          "time": "7:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home (2025-10-03 7:00PM)": {
+          "date": "2025-10-03",
+          "location": "Football: Varsity Game 7:00PM Howell H.S. Marlboro High School Stadium Field",
+          "time": "7:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs Away vs. Holmdel Holmdel": {
+          "date": "2025-10-10",
+          "location": "Football: Varsity Game 7:00PM Away vs. Holmdel Holmdel High School",
+          "time": "7:00PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home (2025-10-17 7:00PM)": {
+          "date": "2025-10-17",
+          "location": "Football: Varsity Game 7:00PM Wall Township Marlboro High School Stadium Field",
+          "time": "7:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs Away vs. Red Bank Count Basie": {
+          "date": "2025-10-24",
+          "location": "Football: Varsity Game 7:00PM Away vs. Red Bank Count Basie Park Catholic H.S.",
+          "time": "7:00PM",
+          "opponent": "Away vs. Red Bank Count Basie",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Tournament home vs Away vs. Brick Brick Memorial High Tournament Memorial H.S.": {
+          "date": "2025-10-31",
+          "location": "Tournament Memorial H.S. School",
+          "time": "5:00PM",
+          "opponent": "Away vs. Brick Brick Memorial High Tournament Memorial H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      },
+      "Coed JV": {
+        "Coed JV Game home": {
+          "date": "2025-09-08",
+          "location": "Football: JV Game 4:00PM Toms River South Marlboro High H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home (2025-09-15 4:00PM)": {
+          "date": "2025-09-15",
+          "location": "Football: JV Game 4:00PM Middletown H.S. Marlboro High North School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home vs Away vs. Middletown High Middletown H.S.": {
+          "date": "2025-09-29",
+          "location": "Middletown H.S. School South",
+          "time": "3:45PM",
+          "opponent": "Away vs. Middletown High Middletown H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home vs Away vs. Howell Howell": {
+          "date": "2025-10-06",
+          "location": "Football: JV Game 4:00PM Away vs. Howell Howell High School H.S.",
+          "time": "4:00PM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home (2025-10-13 4:00PM)": {
+          "date": "2025-10-13",
+          "location": "Football: JV Game 4:00PM Holmdel Marlboro High (Cancelled) School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home vs Away vs. Wall Wall Township High Township": {
+          "date": "2025-10-20",
+          "location": "Township School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Wall Wall Township High Township",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home (2025-10-27 4:00PM)": {
+          "date": "2025-10-27",
+          "location": "Football: JV Game 4:00PM Red Bank Catholic Marlboro High H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed JV Game home vs Away vs. Rumson Rumson-Fair Haven Fair Haven H.S.": {
+          "date": "2025-11-03",
+          "location": "Fair Haven H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Rumson Rumson-Fair Haven Fair Haven H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      }
+    }
+  }
+}

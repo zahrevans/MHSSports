@@ -1,0 +1,82 @@
+{
+  "Swimming": {
+    "coed": {
+      "Coed Level": {
+        "Coed Level Practice home": {
+          "date": "2025-11-17",
+          "location": "Swim Team 5:00AM-6:00AM Freehold YMCA PRACTICE STARTS",
+          "time": "5:00AM-6:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      },
+      "Coed Varsity": {
+        "Coed Varsity Meet home": {
+          "date": "2025-12-04",
+          "location": "Swimming: Varsity Meet 2:30PM Colts Neck High Freehold YMCA School",
+          "time": "2:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home (2025-12-09 2:30PM)": {
+          "date": "2025-12-09",
+          "location": "Manalapan Freehold YMCA",
+          "time": "2:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. Monmouth Ranney": {
+          "date": "2025-12-17",
+          "location": "Swimming: Varsity Meet 5:30PM Away vs. Monmouth Ranney School Reg. H.S.",
+          "time": "5:30PM",
+          "opponent": "Away vs. Monmouth Ranney",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. Brick Neptune Aquatic Township H.S.": {
+          "date": "2025-12-18",
+          "location": "Swimming: Varsity Meet 4:00PM Away vs. Brick Neptune Aquatic Township H.S. Center",
+          "time": "4:00PM",
+          "opponent": "Away vs. Brick Neptune Aquatic Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. Ranney Ranney": {
+          "date": "2026-01-07",
+          "location": "Swimming: Varsity Meet 3:45PM Away vs. Ranney Ranney School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Ranney Ranney",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. Freehold Freehold": {
+          "date": "2026-01-08",
+          "location": "Swimming: Varsity Meet 2:30PM Away vs. Freehold Freehold YMCA (Postponed to 01-15- Township H.S. 26)",
+          "time": "2:30PM",
+          "opponent": "Away vs. Freehold Freehold",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. Howell Camp Zehnder, Wall": {
+          "date": "2026-01-14",
+          "location": "Swimming: Varsity Meet 2:30PM Away vs. Howell Camp Zehnder, Wall H.S. Twp",
+          "time": "2:30PM",
+          "opponent": "Away vs. Howell Camp Zehnder, Wall",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. Shore Reg. Jewish Community H.S.": {
+          "date": "2026-01-22",
+          "location": "H.S. Center, Deal",
+          "time": "4:30PM",
+          "opponent": "Away vs. Shore Reg. Jewish Community H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      }
+    }
+  }
+}
