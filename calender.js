@@ -163,12 +163,37 @@ createApp({
     },
 
     buildShortLabel(sportName, boyOrGirl) {
-      const g = (boyOrGirl || "").toLowerCase();
-      if (g === "boy") return `Boys ${sportName}`;
-      if (g === "girl") return `Girls ${sportName}`;
-      if (g === "coed") return `Coed ${sportName}`;
-      return sportName;
-    },
+  const gender = (boyOrGirl || "").toLowerCase();
+
+  const genderMap = {
+    boy: "B",
+    girl: "G",
+    coed: "C"
+  };
+
+  const sportMap = {
+    soccer: "SOC",
+    basketball: "BSK",
+    wrestling: "WRST",
+    football: "FB",
+    baseball: "BB",
+    softball: "SB",
+    lacrosse: "LAX",
+    track: "TRK",
+    tennis: "TEN",
+    swimming: "SWM",
+    volleyball: "VB",
+    "cross country": "XC",
+    "ice hockey": "HKY",
+    cheerleading: "CHR",
+    "dance team": "DNC"
+  };
+
+  const g = genderMap[gender] || "";
+  const s = sportMap[sportName.toLowerCase()] || sportName.slice(0,3).toUpperCase();
+
+  return `${g} ${s}`.trim();
+},
 
     flattenScheduleObject(root) {
       const result = [];
