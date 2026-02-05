@@ -1,232 +1,222 @@
-/* Base page layout */
-html,
-body {
-  height: 100%;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  font-family: Arial, sans-serif;
-  background-color: gold;
-  color: #1c1f2b;
-  text-align: center;
-  box-sizing: border-box;
-  overflow: hidden; /* prevent page scrolling */
-}
-
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-main {
-  flex: 1;
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: gold;
+}
+
+:root {
+  --navy: #001f3f;
+  --gold: #ffd700;
+  --dark-navy: #0d1929;
+  --text-light: #ffffff;
+}
+
+body {
   display: flex;
   flex-direction: column;
+}
+
+.navbar {
+  height: 72px;
+  background: linear-gradient(135deg, var(--navy), var(--dark-navy));
+  display: flex;
   align-items: center;
-  justify-content: flex-start;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 2px solid #ffd700;
+}
+
+.nav-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-logo h1 {
+  margin: 0;
+  color: var(--gold);
+  font-size: 1.6rem;
+  white-space: nowrap;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+  margin: 0;
   padding: 0;
 }
 
-/* Container */
+.nav-link {
+  color: var(--text-light);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.nav-link:hover {
+  color: var(--gold);
+}
+
+main {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+}
+
 .calendar-container {
+  flex: 1;
   background: #1c1f2b;
-  padding: 12px 24px;
-  border-radius: 8px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
   color: #e6e6e6;
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 40px);
+  padding: 12px 24px;
 }
 
 #calendar-title {
-  margin: 0 0 10px 0;
+  margin: 0 0 6px 0;
   color: #ffd54f;
-  letter-spacing: 1px;
+  text-align: center;
 }
 
-/* Filter buttons */
-.filter-buttons {
+.emoji-bar {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin-bottom: 8px;
   flex-wrap: wrap;
+  margin-bottom: 6px;
 }
 
-/* Calendar grid */
+.emoji-btn {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.06);
+  color: #e6e6e6;
+  padding: 6px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.emoji-btn.active {
+  outline: 2px solid #ffd54f;
+}
+
 .calendar {
+  flex: 1;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  gap: 12px;
-  padding: 12px 8px;
-  width: 100%;
-  flex: 1;
-  overflow: hidden; /* no internal scrolling */
-  grid-auto-rows: 1fr; /* each row shares height equally */
+  grid-auto-rows: 1fr;
+  gap: 10px;
+  padding: 8px;
+  overflow: hidden;
 }
 
-/* Day cell */
 .calendar-day {
   background: #272933;
   border-radius: 8px;
-  text-align: left;
+  padding: 8px;
   display: flex;
   flex-direction: column;
-  align-items: stretch;
-  justify-content: flex-start;
-  transition: background 0.12s ease;
-  overflow: hidden;
-  padding: 10px;
-  min-height: 0; /* critical for grid children to shrink properly */
+  min-height: 0;
 }
 
-.calendar-day:hover {
-  background: #323544;
-}
-
-/* Day number (supports either class name) */
-.calendar-day .date-num,
-.calendar-day .day-number {
+.day-number {
   font-weight: 700;
   color: #ffd54f;
-  margin-bottom: 6px;
-  font-size: 0.9rem;
+  margin-bottom: 4px;
+  font-size: 0.85rem;
 }
 
-/* ---- Event tiles (new) ---- */
-
-/* Holds tiles in a compact grid */
 .event-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 6px;
-  align-content: start;
   overflow: hidden;
 }
 
-/* Tile base */
 .event-tile {
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
-
-  padding: 5px 6px;
-  min-height: 30px;
-
+  padding: 5px;
   font-size: 0.72rem;
-  line-height: 1.05;
-
-  border-radius: 7px;
-  cursor: pointer;
-  user-select: none;
-
-  border: 1px solid rgba(0, 0, 0, 0.22);
-  background: rgba(255, 255, 255, 0.92);
-  color: #1c1f2b;
-
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-
-  transition: transform 0.08s ease, filter 0.08s ease;
-}
-
-.event-tile:hover {
-  transform: translateY(-1px);
-  filter: brightness(1.02);
-}
-
-/* "More" tile */
-.more-tile {
-  cursor: default;
-  font-style: italic;
-  opacity: 0.85;
-}
-
-/* Keep your original event class too (if any old code still uses it) */
-.event {
-  background: #d4af37;
-  color: #1c1f2b;
-  padding: 6px 8px;
   border-radius: 6px;
-  margin-top: 8px;
-  font-size: 0.95rem;
-  width: calc(100% - 4px);
-  text-align: left;
+  background: #ffffff;
+  color: #1c1f2b;
   overflow: hidden;
-  text-overflow: ellipsis;
   white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
 }
 
-/* Type coloring (applies to tiles AND old .event blocks) */
-.sports {
-  background-color: #4caf50 !important;
-  color: #07200a !important;
+.event-grid .event-tile:nth-child(4n + 1),
+.event-grid .event-tile:nth-child(4n + 4) {
+  background-color: #00008b;
+  color: #ffffff;
 }
 
-.concerts {
-  background-color: #ff5722 !important;
-  color: #2b0f06 !important;
+.event-grid .event-tile:nth-child(4n + 2),
+.event-grid .event-tile:nth-child(4n + 3) {
+  background-color: #efbf04;
+  color: #1c1f2b;
 }
 
-.plays {
-  background-color: #9c27b0 !important;
-  color: #fff !important;
-}
-
-/* If you want tiles to use type colors but stay readable */
-.event-tile.sports,
-.event-tile.concerts,
-.event-tile.plays {
-  border-color: rgba(0, 0, 0, 0.22);
-}
-
-/* Navigation */
 .calendar-navigation {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin-top: 12px;
+  margin-top: 6px;
 }
 
-/* Buttons */
 .nav-btn {
   background-color: #ffd54f;
-  color: #1c1f2b;
   border: none;
   padding: 8px 12px;
-  font-size: 0.95rem;
   border-radius: 8px;
   cursor: pointer;
+  font-weight: 600;
 }
 
-.nav-btn:hover {
-  filter: brightness(0.95);
+.modal-content {
+  color: #000;
+  text-align: center;
 }
 
-/* Responsive grid adjustments */
+.modal-body {
+  color: #000;
+  text-align: center;
+}
+
+.modal-title {
+  color: #000;
+  width: 100%;
+  text-align: center;
+}
+
 @media (max-width: 900px) {
   .calendar {
     grid-template-columns: repeat(5, 1fr);
-  }
-  .event-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 600px) {
   .calendar {
     grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: minmax(80px, 1fr);
-  }
-  .event-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -235,53 +225,29 @@ main {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-.emoji-bar{
-  display:flex;
-  gap:10px;
-  justify-content:center;
-  flex-wrap:wrap;
-  margin-bottom: 10px;
+.event {
+  font-size: 0.65rem; /* smaller text */
+  font-weight: 800; /* bold */
+  padding: 4px 5px; /* tighter padding */
+  border-radius: 5px;
+  margin-top: 4px;
+  line-height: 1.05;
+  text-align: center;
+
+  /* keep text compact */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.calendar-day {
+  padding: 8px;
 }
 
-.emoji-btn{
-  border: 1px solid rgba(255,255,255,0.15);
-  background: rgba(255,255,255,0.06);
-  color: #e6e6e6;
-  padding: 6px 10px;
-  border-radius: 10px;
-  cursor:pointer;
-  display:flex;
-  align-items:center;
-  gap:8px;
-}
-
-.emoji-btn:hover{
-  background: rgba(255,255,255,0.10);
-}
-
-.emoji-btn.active{
-  outline: 2px solid #ffd54f;
-  background: rgba(255,213,79,0.10);
-}
-
-.emoji-icon{
-  font-size: 1.1rem;
-}
-
-.emoji-label{
+.calendar-day .date-num {
   font-size: 0.85rem;
-  font-weight: 600;
-}
-.event-grid .event-tile:nth-child(4n+1),
-.event-grid .event-tile:nth-child(4n+4) {
-  background-color: #00008B !important; /* blue */
-  color: #ffffff !important;
-  border-color: #00006a;
-}
-
-.event-grid .event-tile:nth-child(4n+2),
-.event-grid .event-tile:nth-child(4n+3) {
-  background-color: #EFBF04 !important; /* gold */
-  color: #1c1f2b !important;
-  border-color: #d4a900;
+  margin-bottom: 4px;
 }

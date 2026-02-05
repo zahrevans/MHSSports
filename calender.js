@@ -163,37 +163,37 @@ createApp({
     },
 
     buildShortLabel(sportName, boyOrGirl) {
-  const gender = (boyOrGirl || "").toLowerCase();
+      const gender = (boyOrGirl || "").toLowerCase();
 
-  const genderMap = {
-    boy: "B",
-    girl: "G",
-    coed: "C"
-  };
+      const genderMap = {
+        boy: "B",
+        girl: "G",
+        coed: "C"
+      };
 
-  const sportMap = {
-    soccer: "SOC",
-    basketball: "BSK",
-    wrestling: "WRST",
-    football: "FB",
-    baseball: "BB",
-    softball: "SB",
-    lacrosse: "LAX",
-    track: "TRK",
-    tennis: "TEN",
-    swimming: "SWM",
-    volleyball: "VB",
-    "cross country": "XC",
-    "ice hockey": "HKY",
-    cheerleading: "CHR",
-    "dance team": "DNC"
-  };
+      const sportMap = {
+        soccer: "SOC",
+        basketball: "BSK",
+        wrestling: "WRST",
+        football: "FB",
+        baseball: "BB",
+        softball: "SB",
+        lacrosse: "LAX",
+        track: "TRK",
+        tennis: "TEN",
+        swimming: "SWM",
+        volleyball: "VB",
+        "cross country": "XC",
+        "ice hockey": "HKY",
+        cheerleading: "CHR",
+        "dance team": "DNC"
+      };
 
-  const g = genderMap[gender] || "";
-  const s = sportMap[sportName.toLowerCase()] || sportName.slice(0,3).toUpperCase();
+      const g = genderMap[gender] || "";
+      const s = sportMap[sportName.toLowerCase()] || sportName.slice(0, 3).toUpperCase();
 
-  return `${g} ${s}`.trim();
-},
+      return `${g} ${s}`.trim();
+    },
 
     flattenScheduleObject(root) {
       const result = [];
