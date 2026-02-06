@@ -252,8 +252,7 @@ body {
   z-index: 10;
   box-shadow: var(--shadow-lg);
   border-radius: 15px;
-  margin-left: 2rem;
-  margin-right: 2rem;
+
 }
 
 .highlight-card {
