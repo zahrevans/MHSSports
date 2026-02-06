@@ -147,14 +147,18 @@ main {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 6px;
   overflow: hidden;
+  /* ensure each event tile row stays the same height across breakpoints */
+  grid-auto-rows: 40px;
 }
 
 .event-tile {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5px;
-  font-size: 0.72rem;
+  height: 40px; /* fixed height for uniformity */
+  min-height: 40px;
+  padding: 0 6px;
+  font-size: 0.78rem;
   border-radius: 6px;
   background: #ffffff;
   color: #1c1f2b;

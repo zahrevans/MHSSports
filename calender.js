@@ -20,6 +20,12 @@ createApp({
         bodyHtml: "",
       },
 
+      // date selection state for "more" modal: { dateKey: [eventId, ...] }
+      dateSelections: {},
+
+      // currently open date key for the "more" modal
+      selectedDateKey: null,
+
       // Cached schedule data
       // eventsByDate: { "YYYY-MM-DD": [event, event...] }
       eventsByDate: {},
@@ -89,9 +95,17 @@ createApp({
         // Sort by time if present (best-effort)
         filtered.sort((a, b) => (a.time || "").localeCompare(b.time || ""));
 
-        const MAX_TILES = 6;
-        const shown = filtered.slice(0, MAX_TILES);
-        const moreCount = Math.max(0, filtered.length - MAX_TILES);
+        const MAX_TILES = 3;
+
+        // allow per-date user selections to be prioritized into the visible slots
+        const selectedIds = this.dateSelections[dateKey] || [];
+
+        const selectedArr = filtered.filter((ev) => selectedIds.includes(ev._id));
+        const others = filtered.filter((ev) => !selectedIds.includes(ev._id));
+        const prioritized = [...selectedArr, ...others];
+
+        const shown = prioritized.slice(0, MAX_TILES);
+        const moreCount = Math.max(0, prioritized.length - MAX_TILES);
 
         cells.push({
           dateKey,
@@ -135,6 +149,15 @@ createApp({
     },
 
     openEvent(ev) {
+      // If the date list modal is open, hide it first so the event modal replaces it
+      try {
+        const dateModalEl = document.getElementById("dateModal");
+        const dateModalInst = bootstrap.Modal.getInstance(dateModalEl);
+        if (dateModalInst) dateModalInst.hide();
+      } catch (e) {
+        // ignore if bootstrap not available or modal not present
+      }
+
       // Bootstrap modal
       this.modal.title = ev.shortLabel;
 
@@ -271,6 +294,23 @@ createApp({
 
       this.allEvents = flat;
       this.rebuildDateIndex(flat);
+    },
+
+    // Open modal showing all events for a given date, allowing selection
+    openDateModal(dateKey) {
+      this.selectedDateKey = dateKey;
+      if (!this.dateSelections[dateKey]) this.dateSelections[dateKey] = [];
+
+      const modalEl = document.getElementById("dateModal");
+      const modal = new bootstrap.Modal(modalEl);
+      modal.show();
+    },
+
+    applyDateSelections() {
+      const modalEl = document.getElementById("dateModal");
+      const modal = bootstrap.Modal.getInstance(modalEl) || new bootstrap.Modal(modalEl);
+      modal.hide();
+      // selections are already stored in `dateSelections` — calendar will re-render
     },
   },
 

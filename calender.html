@@ -96,7 +96,13 @@
               </div>
 
               <div v-if="cell.moreCount > 0" class="event-tile more-tile">
-                +{{ cell.moreCount }} more
+                <div
+                  @click="openDateModal(cell.dateKey)"
+                  :title="`+${cell.moreCount} more`"
+                  style="cursor: pointer; width: 100%; text-align: center"
+                >
+                  +{{ cell.moreCount }}
+                </div>
               </div>
             </div>
           </div>
@@ -138,6 +144,75 @@
                   data-bs-dismiss="modal"
                 >
                   Close
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Date "more" Modal: shows all events for a specific date and allows selecting which to prioritize -->
+        <div class="modal fade" id="dateModal" tabindex="-1" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">Events for {{ selectedDateKey }}</h5>
+                <button
+                  type="button"
+                  class="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="modal-body">
+                <div v-if="selectedDateKey">
+                  <div
+                    v-for="ev in (eventsByDate[selectedDateKey] || [])"
+                    :key="ev._id"
+                    class="d-flex align-items-center gap-2 mb-2"
+                  >
+                    <input
+                      type="checkbox"
+                      :value="ev._id"
+                      v-model="dateSelections[selectedDateKey]"
+                      :id="'chk-'+ev._id"
+                    />
+                    <label
+                      :for="'chk-'+ev._id"
+                      class="mb-0"
+                      style="cursor: pointer; user-select: none"
+                    >
+                      <strong>{{ ev.shortLabel }}</strong>
+                      <span class="text-muted">
+                        - {{ ev.time || 'TBD' }}{{ ev.opponent ? ' vs ' +
+                        ev.opponent : '' }}</span
+                      >
+                    </label>
+                    <button
+                      class="btn btn-sm btn-outline-primary ms-auto"
+                      @click.prevent="openEvent(ev)"
+                    >
+                      Details
+                    </button>
+                  </div>
+                </div>
+                <div v-else>
+                  <p>No date selected.</p>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-bs-dismiss="modal"
+                >
+                  Close
+                </button>
+                <button
+                  type="button"
+                  class="btn btn-primary"
+                  @click="applyDateSelections"
+                >
+                  Apply
                 </button>
               </div>
             </div>
