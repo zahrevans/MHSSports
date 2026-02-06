@@ -77,18 +77,31 @@ createApp({
 
         dayEvents.sort((a, b) => (a.time || "").localeCompare(b.time || ""));
 
-        const MAX_TILES = 4;
         const selectedIds = this.dateSelections[dateKey] || [];
         const prioritized = [
           ...dayEvents.filter(ev => selectedIds.includes(ev._id)),
           ...dayEvents.filter(ev => !selectedIds.includes(ev._id))
         ];
 
+        // If there are 4 or fewer events, show them all.
+        // If there are more than 4, show 3 events and reserve the 4th
+        // visible slot for the "+N more" tile.
+        const total = prioritized.length;
+        let shown = [];
+        let moreCount = 0;
+        if (total <= 4) {
+          shown = prioritized.slice(0, 4);
+          moreCount = 0;
+        } else {
+          shown = prioritized.slice(0, 3); // show 3 events
+          moreCount = total - 3; // +N will occupy the 4th slot
+        }
+
         cells.push({
           dateKey,
           dayNumber: day,
-          shown: prioritized.slice(0, MAX_TILES),
-          moreCount: Math.max(0, prioritized.length - MAX_TILES),
+          shown,
+          moreCount,
         });
       }
 
@@ -119,21 +132,21 @@ createApp({
         this.currentYear++;
       }
     },
-openEvent(ev) {
-  // Close date modal if open
-  const dateModalEl = document.getElementById("dateModal");
-  if (dateModalEl) {
-    const dateModal = bootstrap.Modal.getInstance(dateModalEl);
-    if (dateModal) dateModal.hide();
-  }
+    openEvent(ev) {
+      // Close date modal if open
+      const dateModalEl = document.getElementById("dateModal");
+      if (dateModalEl) {
+        const dateModal = bootstrap.Modal.getInstance(dateModalEl);
+        if (dateModal) dateModal.hide();
+      }
 
 
-  // Set event modal content
-  this.modal.title = ev.sport
-    ? ev.sport.toUpperCase()
-    : ev.shortLabel;
+      // Set event modal content
+      this.modal.title = ev.sport
+        ? ev.sport.toUpperCase()
+        : ev.shortLabel;
 
-  this.modal.bodyHtml = `
+      this.modal.bodyHtml = `
     <div class="mb-2"><strong>Date:</strong> ${this.escapeHtml(ev.date)}</div>
     <div class="mb-2"><strong>Time:</strong> ${this.escapeHtml(ev.time || "TBD")}</div>
     <div class="mb-2"><strong>Opponent:</strong> ${this.escapeHtml(ev.opponent || "—")}</div>
@@ -143,10 +156,10 @@ openEvent(ev) {
     <div class="mb-2"><strong>Event:</strong> ${this.escapeHtml(ev.name || "")}</div>
   `;
 
-  // OPEN the event modal
-  const eventModalEl = document.getElementById("eventModal");
-  const eventModal = new bootstrap.Modal(eventModalEl);
-  eventModal.show();
+      // OPEN the event modal
+      const eventModalEl = document.getElementById("eventModal");
+      const eventModal = new bootstrap.Modal(eventModalEl);
+      eventModal.show();
     },
 
     escapeHtml(str) {
@@ -210,19 +223,19 @@ openEvent(ev) {
     },
 
     openDateModal(dateKey) {
-  this.selectedDateKey = dateKey;
+      this.selectedDateKey = dateKey;
 
-  this.$nextTick(() => {
-    const modalEl = document.getElementById("dateModal");
-    if (!modalEl) return;
+      this.$nextTick(() => {
+        const modalEl = document.getElementById("dateModal");
+        if (!modalEl) return;
 
-    const modal =
-      bootstrap.Modal.getInstance(modalEl) ||
-      new bootstrap.Modal(modalEl);
+        const modal =
+          bootstrap.Modal.getInstance(modalEl) ||
+          new bootstrap.Modal(modalEl);
 
-    modal.show();
-  });
-},
+        modal.show();
+      });
+    },
 
     applyDateSelections() {
       bootstrap.Modal.getInstance(document.getElementById("dateModal")).hide();

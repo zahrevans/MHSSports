@@ -18,6 +18,15 @@
       crossorigin="anonymous"
     />
 
+    <link rel="icon" href="imgs/mhs-Picsart-AiImageEnhancer.png" type="image/png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap"
+      rel="stylesheet"
+    />
+
     <!-- Your CSS -->
     <link rel="stylesheet" href="calender.css" />
   </head>
@@ -30,7 +39,9 @@
             <h1>Marlboro Sports</h1>
           </div>
           <ul class="nav-menu">
-            <li class="nav-item"><a href="landing.html" class="nav-link">Home</a></li>
+            <li class="nav-item">
+              <a href="landing.html" class="nav-link">Home</a>
+            </li>
             <li class="nav-item">
               <a href="calender.html" class="nav-link">Calendar</a>
             </li>
@@ -46,7 +57,9 @@
     <main class="bg">
       <section class="calendar-container" id="app">
         <!-- Month title (Vue) -->
-        <h1 id="calendar-title">{{ monthTitle }}</h1>
+        <h1 id="calendar-title" class="gravitas-one-regular">
+          {{ monthTitle }}
+        </h1>
 
         <!-- Emoji Sport Picker (Vue) -->
         <div class="emoji-bar">
