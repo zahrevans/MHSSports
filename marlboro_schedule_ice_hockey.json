@@ -12,7 +12,7 @@
         }
       },
       "Coed Varsity": {
-        "Coed Varsity Game home vs Away vs. Red Bank Red Bank Armory Catholic": {
+        "Coed Varsity Game home vs. Red Bank Red Bank Armory Catholic": {
           "date": "2025-12-03",
           "location": "Ice Hockey: Varsity Game 8:15PM Away vs. Red Bank Red Bank Armory Catholic H.S.",
           "time": "8:15PM",
@@ -21,118 +21,6 @@
           "boyOrGirl": "Coed"
         },
         "Coed Varsity Game home": {
-          "date": "2025-12-04",
-          "location": "Wall Township Howell Ice Rink",
-          "time": "6:10PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Christian Jersey Shore": {
-          "date": "2025-12-08",
-          "location": "Ice Hockey: Varsity Game 4:30PM Away vs. Christian Jersey Shore Arena",
-          "time": "4:30PM",
-          "opponent": "Away vs. Christian Jersey Shore",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2025-12-11 8:20PM)": {
-          "date": "2025-12-11",
-          "location": "Ice Hockey: Varsity Game 8:20PM Rumson Fair Haven Jersey Shore Arena H.S.",
-          "time": "8:20PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Middletown Ice": {
-          "date": "2025-12-18",
-          "location": "Ice Hockey: Varsity Game 5:15PM Away vs. Middletown Ice Rink Middletown H.S.",
-          "time": "5:15PM",
-          "opponent": "Away vs. Middletown Ice",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2025-12-19 6:45PM)": {
-          "date": "2025-12-19",
-          "location": "Red Bank Regional Howell Ice Rink",
-          "time": "6:45PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Toms River Winding River East": {
-          "date": "2025-12-23",
-          "location": "East H.S.",
-          "time": "4:00PM",
-          "opponent": "Away vs. Toms River Winding River East",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-01-02 6:45PM)": {
-          "date": "2026-01-02",
-          "location": "Ice Hockey: Varsity Game 6:45PM Freehold Boro High Howell Ice Rink School",
-          "time": "6:45PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-01-09 7:00PM)": {
-          "date": "2026-01-09",
-          "location": "Manasquan Jersey Shore Arena",
-          "time": "7:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Howell Howell Ice": {
-          "date": "2026-01-13",
-          "location": "Ice Hockey: Varsity Game 4:15PM Away vs. Howell Howell Ice Rink H.S.",
-          "time": "4:15PM",
-          "opponent": "Away vs. Howell Howell Ice",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-01-15 8:20PM)": {
-          "date": "2026-01-15",
-          "location": "Ice Hockey: Varsity Game 8:20PM St. John Vianney Jersey Shore Arena H.S.",
-          "time": "8:20PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-01-22 6:10PM)": {
-          "date": "2026-01-22",
-          "location": "Manalapan Howell Ice Rink",
-          "time": "6:10PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-01-27 7:40PM)": {
-          "date": "2026-01-27",
-          "location": "Gloucester Catholic Howell Ice Rink",
-          "time": "7:40PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Freehold Howell Ice": {
-          "date": "2026-01-29",
-          "location": "Ice Hockey: Varsity Game 6:10PM Away vs. Freehold Howell Ice Rink Township H.S.",
-          "time": "6:10PM",
-          "opponent": "Away vs. Freehold Howell Ice",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-01-30 7:00PM)": {
-          "date": "2026-01-30",
-          "location": "Robbinsville Jersey Shore Arena",
-          "time": "7:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-02-05 6:10PM)": {
           "date": "2026-02-05",
           "location": "Ice Hockey: Varsity Game 6:10PM Middletown H.S. Howell Ice Rink",
           "time": "6:10PM",
@@ -140,7 +28,47 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Varsity Game home vs Away vs. Brick ICE PALACE Township": {
+        "Coed Varsity Game home vs. Christian Jersey Shore": {
+          "date": "2025-12-08",
+          "location": "Ice Hockey: Varsity Game 4:30PM Away vs. Christian Jersey Shore Arena",
+          "time": "4:30PM",
+          "opponent": "Away vs. Christian Jersey Shore",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Middletown Ice": {
+          "date": "2025-12-18",
+          "location": "Ice Hockey: Varsity Game 5:15PM Away vs. Middletown Ice Rink Middletown H.S.",
+          "time": "5:15PM",
+          "opponent": "Away vs. Middletown Ice",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Toms River Winding River East": {
+          "date": "2025-12-23",
+          "location": "East H.S.",
+          "time": "4:00PM",
+          "opponent": "Away vs. Toms River Winding River East",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Howell Howell Ice": {
+          "date": "2026-01-13",
+          "location": "Ice Hockey: Varsity Game 4:15PM Away vs. Howell Howell Ice Rink H.S.",
+          "time": "4:15PM",
+          "opponent": "Away vs. Howell Howell Ice",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Freehold Howell Ice": {
+          "date": "2026-01-29",
+          "location": "Ice Hockey: Varsity Game 6:10PM Away vs. Freehold Howell Ice Rink Township H.S.",
+          "time": "6:10PM",
+          "opponent": "Away vs. Freehold Howell Ice",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Brick ICE PALACE Township": {
           "date": "2026-02-06",
           "location": "Township H.S.",
           "time": "5:15PM",
@@ -148,7 +76,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Varsity Game home vs Away vs. Ocean Jersey Shore": {
+        "Coed Varsity Game home vs. Ocean Jersey Shore": {
           "date": "2026-02-18",
           "location": "Ice Hockey: Varsity Game 7:00PM Away vs. Ocean Jersey Shore Arena",
           "time": "7:00PM",

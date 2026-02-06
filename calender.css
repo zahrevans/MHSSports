@@ -238,6 +238,7 @@ main {
 .modal-content,
 .modal-title,
 .modal-body {
-  color: #000;
+  background: var(--tile-blue);
+  color: var(--gold);
   text-align: center;
 }

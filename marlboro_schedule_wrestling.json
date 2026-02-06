@@ -3,142 +3,14 @@
     "boys": {
       "Boys Varsity": {
         "Boys Varsity Event home": {
-          "date": "2025-12-13",
-          "location": "H.S.,",
+          "date": "2026-02-21",
+          "location": "Wrestling: Boys Varsity 9:00AM Princeton, Marlboro High Tri Woodbridge School",
           "time": "9:00AM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
         "Boys Varsity Match home": {
-          "date": "2025-12-17",
-          "location": "Wrestling: Boys Varsity 6:00PM Franklin Marlboro High Match (Township) School",
-          "time": "6:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Tournament home vs Away vs. Elizabeth Elizabeth High Tournament": {
-          "date": "2026-01-03",
-          "location": "Tournament School",
-          "time": "9:00AM",
-          "opponent": "Away vs. Elizabeth Elizabeth High Tournament",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-01-06 6:00PM)": {
-          "date": "2026-01-06",
-          "location": "Wrestling: Boys Varsity 6:00PM Central Reg. H.S. Marlboro High Match School",
-          "time": "6:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Tournament home vs Away vs. Red Bank Red Bank Regional Buc Classic Tournament Regional": {
-          "date": "2026-01-10",
-          "location": "Tournament Regional High School",
-          "time": "9:00AM",
-          "opponent": "Away vs. Red Bank Red Bank Regional Buc Classic Tournament Regional",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Spotswood Middle  Match Spotswood": {
-          "date": "2026-01-13",
-          "location": "Match Spotswood School",
-          "time": "6:30PM",
-          "opponent": "Away vs. Spotswood Middle  Match Spotswood",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. Freehold Freehold Boro High WI - 3:30 JV at 4pm": {
-          "date": "2026-01-14",
-          "location": "",
-          "time": "6:00PM",
-          "opponent": "Away vs. Freehold Freehold Boro High WI - 3:30 JV at 4pm",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home (2026-01-17 9:00AM)": {
-          "date": "2026-01-17",
-          "location": "Wrestling: Boys Varsity 9:00AM Neptune Township, Marlboro High Tri Red Bank Regional School",
-          "time": "9:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Toms River Toms River North 4pm WI Match North H.S.": {
-          "date": "2026-01-21",
-          "location": "Match North H.S. High School",
-          "time": "6:00PM",
-          "opponent": "Away vs. Toms River Toms River North 4pm WI Match North H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. TBA, TBA TBA": {
-          "date": "2026-01-23",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. TBA, TBA TBA (2026-01-24 9:00AM)": {
-          "date": "2026-01-24",
-          "location": "",
-          "time": "9:00AM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Lakewood Lakewood High Match H. S.": {
-          "date": "2026-01-27",
-          "location": "Match H. S. School",
-          "time": "6:00PM",
-          "opponent": "Away vs. Lakewood Lakewood High Match H. S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. Freehold Freehold Township Tri Township H.S.": {
-          "date": "2026-01-31",
-          "location": "Tri Township H.S., High School Manalapan",
-          "time": "9:00AM",
-          "opponent": "Away vs. Freehold Freehold Township Tri Township H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. South South Brunswick Match Brunswick": {
-          "date": "2026-02-03",
-          "location": "",
-          "time": "5:00PM",
-          "opponent": "Away vs. South South Brunswick Match Brunswick",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Brick Brick Township High Match Township H.S.": {
-          "date": "2026-02-04",
-          "location": "Match Township H.S. School",
-          "time": "6:30PM",
-          "opponent": "Away vs. Brick Brick Township High Match Township H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. Barnegat, Barnegat High Quad Keansburg": {
-          "date": "2026-02-07",
-          "location": "Quad Keansburg, School",
-          "time": "9:00AM",
-          "opponent": "Away vs. Barnegat, Barnegat High Quad Keansburg",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Highland Highland": {
-          "date": "2026-02-10",
-          "location": "Wrestling: Boys Varsity 6:00PM Away vs. Highland Highland Park High Match Park School",
-          "time": "6:00PM",
-          "opponent": "Away vs. Highland Highland",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-02-11 6:00PM)": {
           "date": "2026-02-11",
           "location": "Wrestling: Boys Varsity 6:00PM Pinelands Regional Marlboro High Match H.S. School",
           "time": "6:00PM",
@@ -146,33 +18,121 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Event home vs Away vs. Shore Reg. Shore Regional High Tri H.S., New Egypt": {
+        "Boys Varsity Tournament home vs. Elizabeth Elizabeth High Tournament": {
+          "date": "2026-01-03",
+          "location": "Tournament School",
+          "time": "9:00AM",
+          "opponent": "Away vs. Elizabeth Elizabeth High Tournament",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home vs. Red Bank Red Bank Regional Buc Classic Tournament Regional": {
+          "date": "2026-01-10",
+          "location": "Tournament Regional High School",
+          "time": "9:00AM",
+          "opponent": "Away vs. Red Bank Red Bank Regional Buc Classic Tournament Regional",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Spotswood Middle Match Spotswood": {
+          "date": "2026-01-13",
+          "location": "Match Spotswood School",
+          "time": "6:30PM",
+          "opponent": "Away vs. Spotswood Middle  Match Spotswood",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Event home vs. Freehold Freehold Boro High WI - 3:30 JV at 4pm": {
+          "date": "2026-01-14",
+          "location": "",
+          "time": "6:00PM",
+          "opponent": "Away vs. Freehold Freehold Boro High WI - 3:30 JV at 4pm",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Toms River Toms River North 4pm WI Match North H.S.": {
+          "date": "2026-01-21",
+          "location": "Match North H.S. High School",
+          "time": "6:00PM",
+          "opponent": "Away vs. Toms River Toms River North 4pm WI Match North H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Event home vs. TBA, TBA TBA": {
+          "date": "2026-01-24",
+          "location": "",
+          "time": "9:00AM",
+          "opponent": "Away vs. TBA, TBA TBA",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Lakewood Lakewood High Match H. S.": {
+          "date": "2026-01-27",
+          "location": "Match H. S. School",
+          "time": "6:00PM",
+          "opponent": "Away vs. Lakewood Lakewood High Match H. S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Event home vs. Freehold Freehold Township Tri Township H.S.": {
+          "date": "2026-01-31",
+          "location": "Tri Township H.S., High School Manalapan",
+          "time": "9:00AM",
+          "opponent": "Away vs. Freehold Freehold Township Tri Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. South South Brunswick Match Brunswick": {
+          "date": "2026-02-03",
+          "location": "",
+          "time": "5:00PM",
+          "opponent": "Away vs. South South Brunswick Match Brunswick",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Brick Brick Township High Match Township H.S.": {
+          "date": "2026-02-04",
+          "location": "Match Township H.S. School",
+          "time": "6:30PM",
+          "opponent": "Away vs. Brick Brick Township High Match Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Event home vs. Barnegat, Barnegat High Quad Keansburg": {
+          "date": "2026-02-07",
+          "location": "Quad Keansburg, School",
+          "time": "9:00AM",
+          "opponent": "Away vs. Barnegat, Barnegat High Quad Keansburg",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Highland Highland": {
+          "date": "2026-02-10",
+          "location": "Wrestling: Boys Varsity 6:00PM Away vs. Highland Highland Park High Match Park School",
+          "time": "6:00PM",
+          "opponent": "Away vs. Highland Highland",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Event home vs. Shore Reg. Shore Regional High Tri H.S., New Egypt": {
           "date": "2026-02-14",
           "location": "Tri H.S., New Egypt School",
           "time": "9:00AM",
           "opponent": "Away vs. Shore Reg. Shore Regional High Tri H.S., New Egypt",
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home (2026-02-21 9:00AM)": {
-          "date": "2026-02-21",
-          "location": "Wrestling: Boys Varsity 9:00AM Princeton, Marlboro High Tri Woodbridge School",
-          "time": "9:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
         }
       },
       "Boys JV": {
         "Boys JV Match home": {
-          "date": "2025-12-17",
-          "location": "Wrestling: Boys JV Match 5:00PM Franklin Marlboro High",
+          "date": "2026-02-11",
+          "location": "Wrestling: Boys JV Match 5:00PM Pinelands Regional Marlboro High H.S. School",
           "time": "5:00PM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Event home vs Away vs. Freehold Freehold Township Township H.S.": {
+        "Boys JV Event home vs. Freehold Freehold Township Township H.S.": {
           "date": "2025-12-27",
           "location": "Township H.S. High School",
           "time": "9:00AM",
@@ -180,15 +140,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home (2026-01-06 5:00PM)": {
-          "date": "2026-01-06",
-          "location": "Wrestling: Boys JV Match 5:00PM Central Reg. H.S. Marlboro High School",
-          "time": "5:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Match home vs Away vs. Spotswood Middle Spotswood": {
+        "Boys JV Match home vs. Spotswood Middle Spotswood": {
           "date": "2026-01-13",
           "location": "Spotswood School",
           "time": "6:00PM",
@@ -196,7 +148,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home vs Away vs. Freehold Freehold Boro High Boro": {
+        "Boys JV Match home vs. Freehold Freehold Boro High Boro": {
           "date": "2026-01-14",
           "location": "Boro High School School",
           "time": "6:00PM",
@@ -204,7 +156,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home vs Away vs. Toms River Toms River North North H.S.": {
+        "Boys JV Match home vs. Toms River Toms River North North H.S.": {
           "date": "2026-01-21",
           "location": "North H.S. High School",
           "time": "5:00PM",
@@ -212,7 +164,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home vs Away vs. Lakewood Lakewood High H. S.": {
+        "Boys JV Match home vs. Lakewood Lakewood High H. S.": {
           "date": "2026-01-27",
           "location": "H. S. School",
           "time": "4:30PM",
@@ -220,15 +172,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home (2026-01-29 5:30PM)": {
-          "date": "2026-01-29",
-          "location": "Wrestling: Boys JV Match 5:30PM Perth Amboy Marlboro High (Cancelled) School",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Match home vs Away vs. South South Brunswick Brunswick": {
+        "Boys JV Match home vs. South South Brunswick Brunswick": {
           "date": "2026-02-03",
           "location": "",
           "time": "5:00PM",
@@ -236,7 +180,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home vs Away vs. Brick Brick Township High Township H.S.": {
+        "Boys JV Match home vs. Brick Brick Township High Township H.S.": {
           "date": "2026-02-04",
           "location": "Township H.S. School",
           "time": "5:30PM",
@@ -244,19 +188,11 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Match home vs Away vs. Highland Highland": {
+        "Boys JV Match home vs. Highland Highland": {
           "date": "2026-02-10",
           "location": "Wrestling: Boys JV Match 5:00PM Away vs. Highland Highland Park High Park School",
           "time": "5:00PM",
           "opponent": "Away vs. Highland Highland",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Match home (2026-02-11 5:00PM)": {
-          "date": "2026-02-11",
-          "location": "Wrestling: Boys JV Match 5:00PM Pinelands Regional Marlboro High H.S. School",
-          "time": "5:00PM",
-          "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         }
@@ -264,7 +200,7 @@
     },
     "girls": {
       "Girls Varsity": {
-        "Girls Varsity Match home vs Away vs. Lawrence Lawrence High  Match": {
+        "Girls Varsity Match home vs. Lawrence Lawrence High Match": {
           "date": "2025-12-17",
           "location": "Match School",
           "time": "6:00PM",
@@ -272,7 +208,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Tournament home vs Away vs. Old Old Bridge High Tournament Bridge": {
+        "Girls Varsity Tournament home vs. Old Old Bridge High Tournament Bridge": {
           "date": "2025-12-20",
           "location": "Tournament Bridge School",
           "time": "9:00AM",
@@ -289,14 +225,14 @@
           "boyOrGirl": "Girl"
         },
         "Girls Varsity Event home": {
-          "date": "2026-01-09",
-          "location": "Wrestling: Girls Varsity 4:00PM Hillsborough High Marlboro High Tri School Athletics, School",
-          "time": "4:00PM",
+          "date": "2026-02-21",
+          "location": "Wrestling: Girls Varsity 9:00AM Princeton, Marlboro High Tri Woodbridge School",
+          "time": "9:00AM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Tournament home vs Away vs. Freehold Freehold Township Tournament Township H.S.": {
+        "Girls Varsity Tournament home vs. Freehold Freehold Township Tournament Township H.S.": {
           "date": "2026-01-10",
           "location": "Tournament Township H.S. High School",
           "time": "9:00AM",
@@ -304,7 +240,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Match home vs Away vs. Freehold Freehold Boro High Match Boro": {
+        "Girls Varsity Match home vs. Freehold Freehold Boro High Match Boro": {
           "date": "2026-01-14",
           "location": "Match Boro High School School",
           "time": "6:00PM",
@@ -312,7 +248,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home vs Away vs. Raritan, Raritan": {
+        "Girls Varsity Event home vs. Raritan, Raritan": {
           "date": "2026-01-15",
           "location": "Wrestling: Girls Varsity Tri 5:00PM Away vs. Raritan, Raritan High School",
           "time": "5:00PM",
@@ -320,23 +256,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home (2026-01-17 9:00AM)": {
-          "date": "2026-01-17",
-          "location": "Wrestling: Girls Varsity 9:00AM Neptune Township, Marlboro High (Cancelled) Tri Red Bank Regional School",
-          "time": "9:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Event home (2026-01-19 6:00PM)": {
-          "date": "2026-01-19",
-          "location": "School",
-          "time": "6:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Match home vs Away vs. Piscataway High Match Piscataway": {
+        "Girls Varsity Match home vs. Piscataway High Match Piscataway": {
           "date": "2026-01-21",
           "location": "Match Piscataway School",
           "time": "6:00PM",
@@ -344,7 +264,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home vs Away vs. Howell Howell": {
+        "Girls Varsity Event home vs. Howell Howell": {
           "date": "2026-01-24",
           "location": "Wrestling: Girls Varsity 9:00AM Away vs. Howell Howell High School Quad H.S., Manalapan,",
           "time": "9:00AM",
@@ -352,7 +272,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Tournament home vs Away vs. Parsippany Parsippany Hills High Tournament Hills": {
+        "Girls Varsity Tournament home vs. Parsippany Parsippany Hills High Tournament Hills": {
           "date": "2026-01-26",
           "location": "Tournament Hills School",
           "time": "6:00PM",
@@ -360,7 +280,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Match home vs Away vs. Lakewood Lakewood High Match H. S.": {
+        "Girls Varsity Match home vs. Lakewood Lakewood High Match H. S.": {
           "date": "2026-01-27",
           "location": "Match H. S. School",
           "time": "5:30PM",
@@ -368,7 +288,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home vs Away vs. Freehold Freehold Township Township H.S.": {
+        "Girls Varsity Event home vs. Freehold Freehold Township Township H.S.": {
           "date": "2026-01-31",
           "location": "Township H.S., High School Manalapan",
           "time": "9:00AM",
@@ -376,15 +296,15 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Tournament home vs Away vs. TBA, TBA Bound Brook\ufffdHigh Tournament": {
+        "Girls Varsity Tournament home vs. TBA, TBA Bound Brook�High Tournament": {
           "date": "2026-02-01",
           "location": "Tournament School",
           "time": "9:00AM",
-          "opponent": "Away vs. TBA, TBA Bound Brook\ufffdHigh Tournament",
+          "opponent": "Away vs. TBA, TBA Bound Brook�High Tournament",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home vs Away vs. Manchester  Quad Manchester Township High Township, North": {
+        "Girls Varsity Event home vs. Manchester Quad Manchester Township High Township, North": {
           "date": "2026-02-07",
           "location": "Township, North School",
           "time": "9:00AM",
@@ -392,7 +312,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Match home vs Away vs. Trenton Trenton Central Match Central": {
+        "Girls Varsity Match home vs. Trenton Trenton Central Match Central": {
           "date": "2026-02-11",
           "location": "Match Central High School",
           "time": "5:00PM",
@@ -400,19 +320,11 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Match home vs Away vs. New New Brunswick High Match Brunswick": {
+        "Girls Varsity Match home vs. New New Brunswick High Match Brunswick": {
           "date": "2026-02-19",
           "location": "Match Brunswick School",
           "time": "5:00PM",
           "opponent": "Away vs. New New Brunswick High Match Brunswick",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Event home (2026-02-21 9:00AM)": {
-          "date": "2026-02-21",
-          "location": "Wrestling: Girls Varsity 9:00AM Princeton, Marlboro High Tri Woodbridge School",
-          "time": "9:00AM",
-          "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         }

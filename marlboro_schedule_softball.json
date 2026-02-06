@@ -2,7 +2,7 @@
   "Softball": {
     "coed": {
       "Coed Varsity": {
-        "Coed Varsity Game home vs Away vs. Watchung Watchung Hills Reg Hills": {
+        "Coed Varsity Game home vs. Watchung Watchung Hills Reg Hills": {
           "date": "2026-04-02",
           "location": "Hills High School",
           "time": "4:00PM",
@@ -11,150 +11,6 @@
           "boyOrGirl": "Coed"
         },
         "Coed Varsity Game home": {
-          "date": "2026-04-04",
-          "location": "Softball: Varsity Game 11:00AM Southern Reg. Marlboro High School",
-          "time": "11:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-07 4:00PM)": {
-          "date": "2026-04-07",
-          "location": "Softball: Varsity Game 4:00PM Middletown H.S. Marlboro High South School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-08 4:00PM)": {
-          "date": "2026-04-08",
-          "location": "Softball: Varsity Game 4:00PM Red Bank Catholic Marlboro High H.S. School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Colts Neck Colts Neck High": {
-          "date": "2026-04-09",
-          "location": "High School School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Colts Neck Colts Neck High",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-13 4:00PM)": {
-          "date": "2026-04-13",
-          "location": "Softball: Varsity Game 4:00PM Old Bridge Marlboro High School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Middletown High Middletown H.S.": {
-          "date": "2026-04-14",
-          "location": "Middletown H.S. School North",
-          "time": "4:00PM",
-          "opponent": "Away vs. Middletown High Middletown H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-16 4:00PM)": {
-          "date": "2026-04-16",
-          "location": "Softball: Varsity Game 4:00PM Colts Neck High Marlboro High School School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-18 10:00AM)": {
-          "date": "2026-04-18",
-          "location": "Steinert Adventure Sports and Entertainment",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. St. John St. John Vianney Vianney H.S.": {
-          "date": "2026-04-20",
-          "location": "Vianney H.S. High School",
-          "time": "4:00PM",
-          "opponent": "Away vs. St. John St. John Vianney Vianney H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Middletown High Middletown H.S. (2026-04-22 4:00PM)": {
-          "date": "2026-04-22",
-          "location": "Middletown H.S. School South",
-          "time": "4:00PM",
-          "opponent": "Away vs. Middletown High Middletown H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-23 4:00PM)": {
-          "date": "2026-04-23",
-          "location": "Softball: Varsity Game 4:00PM Sayreville War Marlboro High Memorial School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Tournament home vs Away vs. Cedar Grove\ufffdHigh Tournament Immaculate Heart": {
-          "date": "2026-04-25",
-          "location": "Tournament Immaculate Heart School",
-          "time": "1:00PM",
-          "opponent": "Away vs. Cedar Grove\ufffdHigh Tournament Immaculate Heart",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Red Bank Count Basie": {
-          "date": "2026-04-28",
-          "location": "Softball: Varsity Game 4:00PM Away vs. Red Bank Count Basie Park Catholic H.S.",
-          "time": "4:00PM",
-          "opponent": "Away vs. Red Bank Count Basie",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-04-30 4:00PM)": {
-          "date": "2026-04-30",
-          "location": "Softball: Varsity Game 4:00PM Middletown H.S. Marlboro High North School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Donovan Donovan Catholic Catholic": {
-          "date": "2026-05-01",
-          "location": "Catholic High School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Donovan Donovan Catholic Catholic",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-05-04 4:00PM)": {
-          "date": "2026-05-04",
-          "location": "Softball: Varsity Game 4:00PM St. John Vianney Marlboro High H.S. School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Princeton Princeton": {
-          "date": "2026-05-06",
-          "location": "School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Princeton Princeton",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Mount Seton Hall University Saint Dominic Academy": {
-          "date": "2026-05-07",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. Mount Seton Hall University Saint Dominic Academy",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home (2026-05-11 4:00PM)": {
           "date": "2026-05-11",
           "location": "Softball: Varsity Game 4:00PM South Brunswick Marlboro High School",
           "time": "4:00PM",
@@ -162,39 +18,71 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Varsity Event home vs Away vs. TBA, TBA TBA": {
-          "date": "2026-05-14",
+        "Coed Varsity Game home vs. Colts Neck Colts Neck High": {
+          "date": "2026-04-09",
+          "location": "High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Middletown High Middletown H.S.": {
+          "date": "2026-04-22",
+          "location": "Middletown H.S. School South",
+          "time": "4:00PM",
+          "opponent": "Away vs. Middletown High Middletown H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. St. John St. John Vianney Vianney H.S.": {
+          "date": "2026-04-20",
+          "location": "Vianney H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. St. John St. John Vianney Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Tournament home vs. Cedar Grove�High Tournament Immaculate Heart": {
+          "date": "2026-04-25",
+          "location": "Tournament Immaculate Heart School",
+          "time": "1:00PM",
+          "opponent": "Away vs. Cedar Grove�High Tournament Immaculate Heart",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Red Bank Count Basie": {
+          "date": "2026-04-28",
+          "location": "Softball: Varsity Game 4:00PM Away vs. Red Bank Count Basie Park Catholic H.S.",
+          "time": "4:00PM",
+          "opponent": "Away vs. Red Bank Count Basie",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Donovan Donovan Catholic Catholic": {
+          "date": "2026-05-01",
+          "location": "Catholic High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Donovan Donovan Catholic Catholic",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Princeton Princeton": {
+          "date": "2026-05-06",
+          "location": "School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Princeton Princeton",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Game home vs. Mount Seton Hall University Saint Dominic Academy": {
+          "date": "2026-05-07",
           "location": "",
           "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA TBA",
+          "opponent": "Away vs. Mount Seton Hall University Saint Dominic Academy",
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Varsity Event home vs Away vs. TBA, TBA TBA (2026-05-16 10:00AM)": {
-          "date": "2026-05-16",
-          "location": "",
-          "time": "10:00AM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Event home vs Away vs. TBA, TBA TBA (2026-05-18 4:00PM)": {
-          "date": "2026-05-18",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Game home vs Away vs. Toms River Toms River South South H.S.": {
-          "date": "2026-05-19",
-          "location": "South H.S. High School",
-          "time": "7:00PM",
-          "opponent": "Away vs. Toms River Toms River South South H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Varsity Event home vs Away vs. TBA, TBA TBA (2026-05-20 4:00PM)": {
+        "Coed Varsity Event home vs. TBA, TBA TBA": {
           "date": "2026-05-20",
           "location": "",
           "time": "4:00PM",
@@ -202,7 +90,15 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Varsity Event home vs Away vs. TBA, TBA Count Basie": {
+        "Coed Varsity Game home vs. Toms River Toms River South South H.S.": {
+          "date": "2026-05-19",
+          "location": "South H.S. High School",
+          "time": "7:00PM",
+          "opponent": "Away vs. Toms River Toms River South South H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs. TBA, TBA Count Basie": {
           "date": "2026-05-22",
           "location": "Softball: Varsity 6:30PM Away vs. TBA, TBA Count Basie Park",
           "time": "6:30PM",
@@ -212,7 +108,7 @@
         }
       },
       "Coed JV": {
-        "Coed JV Game home vs Away vs. Watchung Watchung Hills Reg Hills": {
+        "Coed JV Game home vs. Watchung Watchung Hills Reg Hills": {
           "date": "2026-04-02",
           "location": "Hills High School",
           "time": "4:00PM",
@@ -221,30 +117,14 @@
           "boyOrGirl": "Coed"
         },
         "Coed JV Game home": {
-          "date": "2026-04-04",
-          "location": "Softball: JV Game 11:00AM Southern Reg. Marlboro High School",
-          "time": "11:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home (2026-04-07 4:00PM)": {
-          "date": "2026-04-07",
-          "location": "Softball: JV Game 4:00PM Middletown H.S. Marlboro High South School",
+          "date": "2026-05-11",
+          "location": "Softball: JV Game 4:00PM South Brunswick Marlboro High School",
           "time": "4:00PM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home (2026-04-08 4:00PM)": {
-          "date": "2026-04-08",
-          "location": "Softball: JV Game 4:00PM Red Bank Catholic Marlboro High H.S. School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home vs Away vs. Colts Neck Colts Neck High": {
+        "Coed JV Game home vs. Colts Neck Colts Neck High": {
           "date": "2026-04-09",
           "location": "High School School",
           "time": "4:00PM",
@@ -252,47 +132,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home (2026-04-13 4:00PM)": {
-          "date": "2026-04-13",
-          "location": "Softball: JV Game 4:00PM Old Bridge Marlboro High School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home vs Away vs. Middletown High Middletown H.S.": {
-          "date": "2026-04-14",
-          "location": "Middletown H.S. School North",
-          "time": "4:00PM",
-          "opponent": "Away vs. Middletown High Middletown H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home (2026-04-16 4:00PM)": {
-          "date": "2026-04-16",
-          "location": "Softball: JV Game 4:00PM Colts Neck High Marlboro High School School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home (2026-04-18 12:00PM)": {
-          "date": "2026-04-18",
-          "location": "TBA Adventure Sports and Entertainment",
-          "time": "12:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home vs Away vs. St. John St. John Vianney Vianney H.S.": {
-          "date": "2026-04-20",
-          "location": "Vianney H.S. High School",
-          "time": "4:00PM",
-          "opponent": "Away vs. St. John St. John Vianney Vianney H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home vs Away vs. Middletown High Middletown H.S. (2026-04-22 4:00PM)": {
+        "Coed JV Game home vs. Middletown High Middletown H.S.": {
           "date": "2026-04-22",
           "location": "Middletown H.S. School South",
           "time": "4:00PM",
@@ -300,15 +140,15 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home (2026-04-23 4:00PM)": {
-          "date": "2026-04-23",
-          "location": "Softball: JV Game 4:00PM Sayreville War Marlboro High Memorial School",
+        "Coed JV Game home vs. St. John St. John Vianney Vianney H.S.": {
+          "date": "2026-04-20",
+          "location": "Vianney H.S. High School",
           "time": "4:00PM",
-          "opponent": "",
+          "opponent": "Away vs. St. John St. John Vianney Vianney H.S.",
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home vs Away vs. Red Bank Count Basie": {
+        "Coed JV Game home vs. Red Bank Count Basie": {
           "date": "2026-04-28",
           "location": "Softball: JV Game 4:00PM Away vs. Red Bank Count Basie Park Catholic H.S.",
           "time": "4:00PM",
@@ -316,15 +156,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home (2026-04-30 4:00PM)": {
-          "date": "2026-04-30",
-          "location": "Softball: JV Game 4:00PM Middletown H.S. Marlboro High North School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home vs Away vs. Donovan Donovan Catholic Catholic": {
+        "Coed JV Game home vs. Donovan Donovan Catholic Catholic": {
           "date": "2026-05-01",
           "location": "Catholic High School",
           "time": "4:00PM",
@@ -332,15 +164,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home (2026-05-04 4:00PM)": {
-          "date": "2026-05-04",
-          "location": "Softball: JV Game 4:00PM St. John Vianney Marlboro High H.S. School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home vs Away vs. Princeton Princeton": {
+        "Coed JV Game home vs. Princeton Princeton": {
           "date": "2026-05-06",
           "location": "School",
           "time": "4:00PM",
@@ -348,19 +172,11 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed JV Game home vs Away vs. Mount Seton Hall University Saint Dominic Academy": {
+        "Coed JV Game home vs. Mount Seton Hall University Saint Dominic Academy": {
           "date": "2026-05-07",
           "location": "",
           "time": "4:00PM",
           "opponent": "Away vs. Mount Seton Hall University Saint Dominic Academy",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed JV Game home (2026-05-11 4:00PM)": {
-          "date": "2026-05-11",
-          "location": "Softball: JV Game 4:00PM South Brunswick Marlboro High School",
-          "time": "4:00PM",
-          "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         }

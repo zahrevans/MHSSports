@@ -2,7 +2,7 @@
   "Cheerleading": {
     "coed": {
       "Coed Level": {
-        "Coed Level Competition home vs Away vs. Warren Warren Hills Reg. Varsity Competition Hills Regional": {
+        "Coed Level Competition home vs. Warren Warren Hills Reg. Varsity Competition Hills Regional": {
           "date": "2025-11-01",
           "location": "Varsity Competition Hills Regional High School",
           "time": "10:00AM",
@@ -10,7 +10,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Level Competition home vs Away vs. Ridge Ridge": {
+        "Coed Level Competition home vs. Ridge Ridge": {
           "date": "2025-11-09",
           "location": "Cheerleading Winter: 10:00AM Away vs. Ridge Ridge High School",
           "time": "10:00AM",
@@ -18,7 +18,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Level Competition home vs Away vs. TBA, TBA Cure Insurance Varsity Competition": {
+        "Coed Level Competition home vs. TBA, TBA Cure Insurance Varsity Competition": {
           "date": "2025-11-16",
           "location": "Cheerleading Winter: 10:00AM Away vs. TBA, TBA Cure Insurance Varsity Competition Arena",
           "time": "10:00AM",
@@ -26,7 +26,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Level Competition home vs Away vs. Bridgewater- Raritan Varsity Competition Bridgewater- Raritan": {
+        "Coed Level Competition home vs. Bridgewater- Raritan Varsity Competition Bridgewater- Raritan": {
           "date": "2026-01-10",
           "location": "",
           "time": "10:00AM",
@@ -34,7 +34,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Level Competition home vs Away vs. Mount Mount Olive High Varsity Competition Olive": {
+        "Coed Level Competition home vs. Mount Mount Olive High Varsity Competition Olive": {
           "date": "2026-01-18",
           "location": "Varsity Competition Olive School",
           "time": "10:00AM",
@@ -42,7 +42,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Coed"
         },
-        "Coed Level Competition home vs Away vs. Roxbury Roxbury": {
+        "Coed Level Competition home vs. Roxbury Roxbury": {
           "date": "2026-01-24",
           "location": "Cheerleading Winter: 10:00AM Away vs. Roxbury Roxbury High School",
           "time": "10:00AM",
@@ -51,46 +51,6 @@
           "boyOrGirl": "Coed"
         },
         "Coed Level Event home": {
-          "date": "2026-02-04",
-          "location": "DISNEY UCA CHEER NATIONALS",
-          "time": "8:00AM-3:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Level Event home (2026-02-05 8:00AM-3:00PM)": {
-          "date": "2026-02-05",
-          "location": "DISNEY UCA CHEER NATIONALS",
-          "time": "8:00AM-3:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Level Event home (2026-02-06 8:00AM-3:00PM)": {
-          "date": "2026-02-06",
-          "location": "DISNEY UCA CHEER NATIONALS",
-          "time": "8:00AM-3:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Level Event home (2026-02-07 8:00AM-3:00PM)": {
-          "date": "2026-02-07",
-          "location": "DISNEY UCA CHEER NATIONALS",
-          "time": "8:00AM-3:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Level Event home (2026-02-08 8:00AM-3:00PM)": {
-          "date": "2026-02-08",
-          "location": "DISNEY UCA CHEER NATIONALS",
-          "time": "8:00AM-3:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Coed"
-        },
-        "Coed Level Event home (2026-02-09 8:00AM-3:00PM)": {
           "date": "2026-02-09",
           "location": "DISNEY UCA CHEER NATIONALS",
           "time": "8:00AM-3:00PM",

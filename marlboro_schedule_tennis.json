@@ -3,38 +3,6 @@
     "girls": {
       "Girls Varsity": {
         "Girls Varsity Match home": {
-          "date": "2025-09-03",
-          "location": "Tennis: Girls Varsity 4:00PM Colts Neck High Marlboro Swim Club Match School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Match home (2025-09-04 4:00PM)": {
-          "date": "2025-09-04",
-          "location": "Tennis: Girls Varsity 4:00PM Manasquan Marlboro Swim Club",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Match home vs Away vs. Trinity Christian Brothers  Match Hall Academy": {
-          "date": "2025-09-08",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. Trinity Christian Brothers  Match Hall Academy",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Match home (2025-09-09 4:00PM)": {
-          "date": "2025-09-09",
-          "location": "Tennis: Girls Varsity 4:00PM Rumson Fair Haven Marlboro Swim Club Match H.S.",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Match home (2025-09-11 4:00PM)": {
           "date": "2025-09-11",
           "location": "Tennis: Girls Varsity 4:00PM Red Bank Regional Marlboro Swim Club",
           "time": "4:00PM",
@@ -42,7 +10,15 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Match home vs Away vs. Holmdel Holmdel": {
+        "Girls Varsity Match home vs. Trinity Christian Brothers Match Hall Academy": {
+          "date": "2025-09-08",
+          "location": "",
+          "time": "4:00PM",
+          "opponent": "Away vs. Trinity Christian Brothers  Match Hall Academy",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Match home vs. Holmdel Holmdel": {
           "date": "2025-09-12",
           "location": "Tennis: Girls Varsity 4:00PM Away vs. Holmdel Holmdel High School",
           "time": "4:00PM",
@@ -58,15 +34,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home vs Away vs. TBA, TBA Tindall": {
-          "date": "2025-09-19",
-          "location": "Tennis: Girls Varsity 4:00PM Away vs. TBA, TBA Tindall Park,",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA Tindall",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Event home vs Away vs. TBA, TBA Tindall (2025-09-20 10:00AM)": {
+        "Girls Varsity Event home vs. TBA, TBA Tindall": {
           "date": "2025-09-20",
           "location": "Tennis: Girls Varsity 10:00AM Away vs. TBA, TBA Tindall Park,",
           "time": "10:00AM",
@@ -74,7 +42,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Event home vs Away vs. Rumson Atlantic Club": {
+        "Girls Varsity Event home vs. Rumson Atlantic Club": {
           "date": "2025-09-25",
           "location": "Tennis: Girls Varsity 2:00PM Away vs. Rumson Atlantic Club (Time & Location Fair Haven H.S. Changed)",
           "time": "2:00PM",
@@ -90,7 +58,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Championship home vs Away vs. South South Brunswick NJSIAA Championship Brunswick": {
+        "Girls Varsity Championship home vs. South South Brunswick NJSIAA Championship Brunswick": {
           "date": "2025-10-07",
           "location": "",
           "time": "4:00PM",
@@ -102,7 +70,7 @@
     },
     "boys": {
       "Boys Varsity": {
-        "Boys Varsity Match home vs Away vs. Christian Christian Brothers Match Brothers Academy Academy": {
+        "Boys Varsity Match home vs. Christian Christian Brothers Match Brothers Academy Academy": {
           "date": "2026-04-02",
           "location": "",
           "time": "4:00PM",
@@ -111,78 +79,6 @@
           "boyOrGirl": "Boy"
         },
         "Boys Varsity Match home": {
-          "date": "2026-04-07",
-          "location": "Tennis: Boys Varsity 4:00PM Manalapan Marlboro Swim Club",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-04-08 4:00PM)": {
-          "date": "2026-04-08",
-          "location": "Tennis: Boys Varsity 4:00PM Manasquan Marlboro Swim Club",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Ranney Ranney": {
-          "date": "2026-04-10",
-          "location": "Tennis: Boys Varsity 4:00PM Away vs. Ranney Ranney School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Ranney Ranney",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-04-14 4:00PM)": {
-          "date": "2026-04-14",
-          "location": "Tennis: Boys Varsity 4:00PM Ocean Twp. Marlboro Swim Club",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-04-15 4:00PM)": {
-          "date": "2026-04-15",
-          "location": "Tennis: Boys Varsity 4:00PM Rumson Fair Haven Marlboro High Match H.S. School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Manalapan Rec Match Manalapan": {
-          "date": "2026-04-17",
-          "location": "Tennis: Boys Varsity 4:00PM Away vs. Manalapan Rec Match Manalapan Center",
-          "time": "4:00PM",
-          "opponent": "Away vs. Manalapan Rec Match Manalapan",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-04-20 4:00PM)": {
-          "date": "2026-04-20",
-          "location": "Tennis: Boys Varsity 4:00PM Christian Brothers Marlboro High Match Academy School",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Ocean Ocean Tennis": {
-          "date": "2026-04-22",
-          "location": "Tennis: Boys Varsity 4:00PM Away vs. Ocean Ocean Tennis Center",
-          "time": "4:00PM",
-          "opponent": "Away vs. Ocean Ocean Tennis",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home vs Away vs. Manasquan High Match Manasquan": {
-          "date": "2026-04-24",
-          "location": "Match Manasquan School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Manasquan High Match Manasquan",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Match home (2026-04-27 4:00PM)": {
           "date": "2026-04-27",
           "location": "Tennis: Boys Varsity 4:00PM Ranney Prep Marlboro Swim Club",
           "time": "4:00PM",
@@ -190,7 +86,39 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Match home vs Away vs. Holmdel Holmdel": {
+        "Boys Varsity Match home vs. Ranney Ranney": {
+          "date": "2026-04-10",
+          "location": "Tennis: Boys Varsity 4:00PM Away vs. Ranney Ranney School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Ranney Ranney",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Manalapan Rec Match Manalapan": {
+          "date": "2026-04-17",
+          "location": "Tennis: Boys Varsity 4:00PM Away vs. Manalapan Rec Match Manalapan Center",
+          "time": "4:00PM",
+          "opponent": "Away vs. Manalapan Rec Match Manalapan",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Ocean Ocean Tennis": {
+          "date": "2026-04-22",
+          "location": "Tennis: Boys Varsity 4:00PM Away vs. Ocean Ocean Tennis Center",
+          "time": "4:00PM",
+          "opponent": "Away vs. Ocean Ocean Tennis",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Manasquan High Match Manasquan": {
+          "date": "2026-04-24",
+          "location": "Match Manasquan School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Manasquan High Match Manasquan",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Match home vs. Holmdel Holmdel": {
           "date": "2026-04-30",
           "location": "Tennis: Boys Varsity 4:00PM Away vs. Holmdel Holmdel High School",
           "time": "4:00PM",
@@ -198,7 +126,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Match home vs Away vs. Rumson Rumson-Fair Haven Match Fair Haven H.S.": {
+        "Boys Varsity Match home vs. Rumson Rumson-Fair Haven Match Fair Haven H.S.": {
           "date": "2026-05-01",
           "location": "Match Fair Haven H.S. High School",
           "time": "4:00PM",
@@ -206,7 +134,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Match home vs Away vs. South South Brunswick Match Brunswick": {
+        "Boys Varsity Match home vs. South South Brunswick Match Brunswick": {
           "date": "2026-05-04",
           "location": "",
           "time": "4:00PM",
@@ -214,31 +142,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Event home vs Away vs. TBA, TBA TBA": {
-          "date": "2026-05-05",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. TBA, TBA TBA (2026-05-07 4:00PM)": {
-          "date": "2026-05-07",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. TBA, TBA TBA (2026-05-11 4:00PM)": {
-          "date": "2026-05-11",
-          "location": "",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA TBA",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Event home vs Away vs. TBA, TBA TBA (2026-05-13 4:00PM)": {
+        "Boys Varsity Event home vs. TBA, TBA TBA": {
           "date": "2026-05-13",
           "location": "",
           "time": "4:00PM",
@@ -246,7 +150,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Event home vs Away vs. TBA, TBA": {
+        "Boys Varsity Event home vs. TBA, TBA": {
           "date": "2026-05-15",
           "location": "Tennis: Boys Varsity 2:00PM Away vs. TBA, TBA Park Avenue Tennis Center, Oakhurst",
           "time": "2:00PM",

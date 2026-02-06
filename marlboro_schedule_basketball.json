@@ -10,7 +10,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Level Game home vs Away vs. Howell Howell": {
+        "Boys Level Game home vs. Howell Howell": {
           "date": "2025-12-18",
           "location": "Basketball: Boys 4:00PM Away vs. Howell Howell High School Freshman Game H.S.",
           "time": "4:00PM",
@@ -19,86 +19,6 @@
           "boyOrGirl": "Boy"
         },
         "Boys Level Game home": {
-          "date": "2025-12-22",
-          "location": "Basketball: Boys 4:00PM Red Bank Regional Marlboro High Freshman Game School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home vs Away vs. Red Bank Red Bank Catholic Freshman Game Catholic H.S.": {
-          "date": "2026-01-06",
-          "location": "Freshman Game Catholic H.S. High School",
-          "time": "3:45PM",
-          "opponent": "Away vs. Red Bank Red Bank Catholic Freshman Game Catholic H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home vs Away vs. Freehold Freehold Boro High Freshman Game Boro": {
-          "date": "2026-01-08",
-          "location": "Freshman Game Boro High School School",
-          "time": "5:30PM",
-          "opponent": "Away vs. Freehold Freehold Boro High Freshman Game Boro",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-10 11:30AM)": {
-          "date": "2026-01-10",
-          "location": "Basketball: Boys 11:30AM Toms River East Marlboro High (Time Changed) Freshman Game H.S. School Gym-Middle",
-          "time": "11:30AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home vs Away vs. Colts Neck Colts Neck High  Freshman Game": {
-          "date": "2026-01-13",
-          "location": "Freshman Game High School School",
-          "time": "5:30PM",
-          "opponent": "Away vs. Colts Neck Colts Neck High  Freshman Game",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-15 4:00PM)": {
-          "date": "2026-01-15",
-          "location": "Basketball: Boys 4:00PM Ranney Prep Marlboro High (Cancelled) Freshman Game School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-20 5:30PM)": {
-          "date": "2026-01-20",
-          "location": "Basketball: Boys 5:30PM Middletown H.S. Marlboro High (Time Changed) Freshman Game North School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-22 5:30PM)": {
-          "date": "2026-01-22",
-          "location": "Basketball: Boys 5:30PM Red Bank Catholic Marlboro High (Time Changed) Freshman Game H.S. School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-24 10:00AM)": {
-          "date": "2026-01-24",
-          "location": "Basketball: Boys 10:00AM Manalapan Marlboro High Freshman Game School Gym-Middle",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-27 5:30PM)": {
-          "date": "2026-01-27",
-          "location": "Basketball: Boys 5:30PM Freehold Boro High Marlboro High Freshman Game School School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Level Game home (2026-01-30 5:30PM)": {
           "date": "2026-01-30",
           "location": "Basketball: Boys 5:30PM Colts Neck High Marlboro High Freshman Game School School Gym-Main",
           "time": "5:30PM",
@@ -106,7 +26,31 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Level Game home vs Away vs. Middletown High Freshman Game Middletown H.S.": {
+        "Boys Level Game home vs. Red Bank Red Bank Catholic Freshman Game Catholic H.S.": {
+          "date": "2026-01-06",
+          "location": "Freshman Game Catholic H.S. High School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Red Bank Red Bank Catholic Freshman Game Catholic H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Level Game home vs. Freehold Freehold Boro High Freshman Game Boro": {
+          "date": "2026-01-08",
+          "location": "Freshman Game Boro High School School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Freehold Freehold Boro High Freshman Game Boro",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Level Game home vs. Colts Neck Colts Neck High Freshman Game": {
+          "date": "2026-01-13",
+          "location": "Freshman Game High School School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High  Freshman Game",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Level Game home vs. Middletown High Freshman Game Middletown H.S.": {
           "date": "2026-02-05",
           "location": "Freshman Game Middletown H.S. School North",
           "time": "5:15PM",
@@ -116,7 +60,7 @@
         }
       },
       "Boys JV": {
-        "Boys JV Game home vs Away vs. Howell Howell": {
+        "Boys JV Game home vs. Howell Howell": {
           "date": "2025-12-18",
           "location": "Basketball: Boys JV Game 4:00PM Away vs. Howell Howell High School H.S.",
           "time": "4:00PM",
@@ -125,102 +69,6 @@
           "boyOrGirl": "Boy"
         },
         "Boys JV Game home": {
-          "date": "2025-12-22",
-          "location": "Basketball: Boys JV Game 4:00PM Red Bank Regional Marlboro High School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home vs Away vs. St. Rose St. Rose": {
-          "date": "2026-01-03",
-          "location": "Basketball: Boys JV Game 11:00AM Away vs. St. Rose St. Rose High School H.S. - Belmar",
-          "time": "11:00AM",
-          "opponent": "Away vs. St. Rose St. Rose",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home vs Away vs. Red Bank Red Bank Catholic Catholic H.S.": {
-          "date": "2026-01-06",
-          "location": "Catholic H.S. High School",
-          "time": "5:00PM",
-          "opponent": "Away vs. Red Bank Red Bank Catholic Catholic H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home vs Away vs. Freehold Freehold Boro High Boro": {
-          "date": "2026-01-08",
-          "location": "Boro High School School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Freehold Freehold Boro High Boro",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-10 10:00AM)": {
-          "date": "2026-01-10",
-          "location": "Basketball: Boys JV Game 10:00AM Toms River East Marlboro High H.S. School Gym-Main",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home vs Away vs. Colts Neck Colts Neck High": {
-          "date": "2026-01-13",
-          "location": "High School School",
-          "time": "4:00PM",
-          "opponent": "Away vs. Colts Neck Colts Neck High",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-15 4:00PM)": {
-          "date": "2026-01-15",
-          "location": "Basketball: Boys JV Game 4:00PM Ranney Prep Marlboro High (Cancelled) School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-20 4:00PM)": {
-          "date": "2026-01-20",
-          "location": "Basketball: Boys JV Game 4:00PM Middletown H.S. Marlboro High North School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-22 4:00PM)": {
-          "date": "2026-01-22",
-          "location": "Basketball: Boys JV Game 4:00PM Red Bank Catholic Marlboro High H.S. School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-24 10:00AM)": {
-          "date": "2026-01-24",
-          "location": "Basketball: Boys JV Game 10:00AM Manalapan Marlboro High School Gym-Main",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-27 4:00PM)": {
-          "date": "2026-01-27",
-          "location": "Basketball: Boys JV Game 4:00PM Freehold Boro High Marlboro High School School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-01-30 4:00PM)": {
-          "date": "2026-01-30",
-          "location": "Basketball: Boys JV Game 4:00PM Colts Neck High Marlboro High School School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys JV Game home (2026-02-02 4:00PM)": {
           "date": "2026-02-02",
           "location": "Basketball: Boys JV Game 4:00PM Ranney Prep Marlboro High School Gym-Main",
           "time": "4:00PM",
@@ -228,7 +76,39 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys JV Game home vs Away vs. Middletown High Middletown H.S.": {
+        "Boys JV Game home vs. St. Rose St. Rose": {
+          "date": "2026-01-03",
+          "location": "Basketball: Boys JV Game 11:00AM Away vs. St. Rose St. Rose High School H.S. - Belmar",
+          "time": "11:00AM",
+          "opponent": "Away vs. St. Rose St. Rose",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs. Red Bank Red Bank Catholic Catholic H.S.": {
+          "date": "2026-01-06",
+          "location": "Catholic H.S. High School",
+          "time": "5:00PM",
+          "opponent": "Away vs. Red Bank Red Bank Catholic Catholic H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs. Freehold Freehold Boro High Boro": {
+          "date": "2026-01-08",
+          "location": "Boro High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Freehold Freehold Boro High Boro",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs. Colts Neck Colts Neck High": {
+          "date": "2026-01-13",
+          "location": "High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs. Middletown High Middletown H.S.": {
           "date": "2026-02-05",
           "location": "Middletown H.S. School North",
           "time": "4:00PM",
@@ -238,7 +118,7 @@
         }
       },
       "Boys Varsity": {
-        "Boys Varsity Game home vs Away vs. Howell Howell": {
+        "Boys Varsity Game home vs. Howell Howell": {
           "date": "2025-12-18",
           "location": "Basketball: Boys Varsity 5:30PM Away vs. Howell Howell High School Game H.S.",
           "time": "5:30PM",
@@ -247,150 +127,6 @@
           "boyOrGirl": "Boy"
         },
         "Boys Varsity Game home": {
-          "date": "2025-12-22",
-          "location": "Basketball: Boys Varsity 5:30PM Red Bank Regional Marlboro High Game School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Tournament home": {
-          "date": "2025-12-27",
-          "location": "Basketball: Boys Varsity 3:30PM Middletown H.S. Red Bank Regional Tournament South High School",
-          "time": "3:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Tournament home vs Away vs. TBA, TBA Red Bank Regional Tournament": {
-          "date": "2025-12-29",
-          "location": "Tournament High School",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA Red Bank Regional Tournament",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Tournament home vs Away vs. TBA, TBA Red Bank Regional Tournament (2025-12-30 4:00PM)": {
-          "date": "2025-12-30",
-          "location": "Tournament High School",
-          "time": "4:00PM",
-          "opponent": "Away vs. TBA, TBA Red Bank Regional Tournament",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home vs Away vs. St. Rose St. Rose": {
-          "date": "2026-01-03",
-          "location": "Basketball: Boys Varsity 12:30PM Away vs. St. Rose St. Rose High School Game H.S. - Belmar",
-          "time": "12:30PM",
-          "opponent": "Away vs. St. Rose St. Rose",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home vs Away vs. Red Bank Red Bank Catholic Game Catholic H.S.": {
-          "date": "2026-01-06",
-          "location": "Game Catholic H.S. High School",
-          "time": "6:30PM",
-          "opponent": "Away vs. Red Bank Red Bank Catholic Game Catholic H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home vs Away vs. Freehold Freehold Boro High Game Boro": {
-          "date": "2026-01-08",
-          "location": "Game Boro High School School",
-          "time": "5:30PM",
-          "opponent": "Away vs. Freehold Freehold Boro High Game Boro",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-01-10 11:30AM)": {
-          "date": "2026-01-10",
-          "location": "Basketball: Boys Varsity 11:30AM Toms River East Marlboro High Game H.S. School Gym-Main",
-          "time": "11:30AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home vs Away vs. Colts Neck Colts Neck High Game": {
-          "date": "2026-01-13",
-          "location": "Game High School School",
-          "time": "5:30PM",
-          "opponent": "Away vs. Colts Neck Colts Neck High Game",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home vs Away vs. Ranney Ranney": {
-          "date": "2026-01-15",
-          "location": "Basketball: Boys Varsity 6:00PM Away vs. Ranney Ranney School (Location Changed) Game School",
-          "time": "6:00PM",
-          "opponent": "Away vs. Ranney Ranney",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Tournament home (2026-01-17 11:30AM)": {
-          "date": "2026-01-17",
-          "location": "Tournament High School",
-          "time": "11:30AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-01-20 5:30PM)": {
-          "date": "2026-01-20",
-          "location": "Basketball: Boys Varsity 5:30PM Middletown H.S. Marlboro High Game North School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-01-22 5:30PM)": {
-          "date": "2026-01-22",
-          "location": "Basketball: Boys Varsity 5:30PM Red Bank Catholic Marlboro High Game H.S. School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-01-24 11:30AM)": {
-          "date": "2026-01-24",
-          "location": "Basketball: Boys Varsity 11:30AM Manalapan Marlboro High Game School Gym-Main",
-          "time": "11:30AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-01-27 5:30PM)": {
-          "date": "2026-01-27",
-          "location": "Basketball: Boys Varsity 5:30PM Freehold Boro High Marlboro High Game School School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-01-30 5:30PM)": {
-          "date": "2026-01-30",
-          "location": "Basketball: Boys Varsity 5:30PM Colts Neck High Marlboro High Game School School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-02-02 5:30PM)": {
-          "date": "2026-02-02",
-          "location": "Basketball: Boys Varsity 5:30PM Ranney Prep Marlboro High Game School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home vs Away vs. Middletown High Game Middletown H.S.": {
-          "date": "2026-02-05",
-          "location": "Game Middletown H.S. School North",
-          "time": "5:30PM",
-          "opponent": "Away vs. Middletown High Game Middletown H.S.",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Boy"
-        },
-        "Boys Varsity Game home (2026-02-16 5:00PM)": {
           "date": "2026-02-16",
           "location": "Basketball: Boys Varsity 5:00PM Southern Reg. Marlboro High Game School Gym-Main",
           "time": "5:00PM",
@@ -398,7 +134,71 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Boy"
         },
-        "Boys Varsity Game home vs Away vs. Cherokee Cherokee High Game": {
+        "Boys Varsity Tournament home": {
+          "date": "2026-01-17",
+          "location": "Tournament High School",
+          "time": "11:30AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home vs. TBA, TBA Red Bank Regional Tournament": {
+          "date": "2025-12-30",
+          "location": "Tournament High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA Red Bank Regional Tournament",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. St. Rose St. Rose": {
+          "date": "2026-01-03",
+          "location": "Basketball: Boys Varsity 12:30PM Away vs. St. Rose St. Rose High School Game H.S. - Belmar",
+          "time": "12:30PM",
+          "opponent": "Away vs. St. Rose St. Rose",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. Red Bank Red Bank Catholic Game Catholic H.S.": {
+          "date": "2026-01-06",
+          "location": "Game Catholic H.S. High School",
+          "time": "6:30PM",
+          "opponent": "Away vs. Red Bank Red Bank Catholic Game Catholic H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. Freehold Freehold Boro High Game Boro": {
+          "date": "2026-01-08",
+          "location": "Game Boro High School School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Freehold Freehold Boro High Game Boro",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. Colts Neck Colts Neck High Game": {
+          "date": "2026-01-13",
+          "location": "Game High School School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High Game",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. Ranney Ranney": {
+          "date": "2026-01-15",
+          "location": "Basketball: Boys Varsity 6:00PM Away vs. Ranney Ranney School (Location Changed) Game School",
+          "time": "6:00PM",
+          "opponent": "Away vs. Ranney Ranney",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. Middletown High Game Middletown H.S.": {
+          "date": "2026-02-05",
+          "location": "Game Middletown H.S. School North",
+          "time": "5:30PM",
+          "opponent": "Away vs. Middletown High Game Middletown H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs. Cherokee Cherokee High Game": {
           "date": "2026-02-19",
           "location": "Game School",
           "time": "5:00PM",
@@ -418,7 +218,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Level Game home vs Away vs. Manchester  Freshman Game Manchester Township High Township": {
+        "Girls Level Game home vs. Manchester Freshman Game Manchester Township High Township": {
           "date": "2025-12-18",
           "location": "Township School",
           "time": "4:00PM",
@@ -427,30 +227,14 @@
           "boyOrGirl": "Girl"
         },
         "Girls Level Game home": {
-          "date": "2025-12-20",
-          "location": "Basketball: Girls 10:00AM Toms River North Marlboro High Freshman Game H.S. School Gym-Main",
-          "time": "10:00AM",
+          "date": "2026-02-03",
+          "location": "Basketball: Girls 4:00PM Manalapan Marlboro High (Cancelled) Freshman Game School Gym-Main",
+          "time": "4:00PM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Level Game home (2026-01-03 10:00AM)": {
-          "date": "2026-01-03",
-          "location": "Basketball: Girls 10:00AM Glen Ridge Marlboro High (Cancelled) Freshman Game School Gym-Main",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Level Game home (2026-01-13 5:30PM)": {
-          "date": "2026-01-13",
-          "location": "Basketball: Girls 5:30PM Colts Neck High Marlboro High Freshman Game School School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Level Game home vs Away vs. Manalapan High  Freshman Game Manalapan": {
+        "Girls Level Game home vs. Manalapan High Freshman Game Manalapan": {
           "date": "2026-01-16",
           "location": "Basketball: Girls 4:00PM Away vs. Manalapan High (Cancelled) Freshman Game Manalapan School",
           "time": "4:00PM",
@@ -458,7 +242,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Level Game home vs Away vs. Toms River Toms River North  Freshman Game North H.S.": {
+        "Girls Level Game home vs. Toms River Toms River North Freshman Game North H.S.": {
           "date": "2026-01-22",
           "location": "Freshman Game North H.S. High School",
           "time": "4:00PM",
@@ -466,7 +250,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Level Game home vs Away vs. Southern Southern Regional Freshman Game Reg.": {
+        "Girls Level Game home vs. Southern Southern Regional Freshman Game Reg.": {
           "date": "2026-01-28",
           "location": "Freshman Game Reg. High School",
           "time": "5:00PM",
@@ -474,33 +258,25 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Level Game home vs Away vs. Colts Neck Colts Neck High Freshman Game": {
+        "Girls Level Game home vs. Colts Neck Colts Neck High Freshman Game": {
           "date": "2026-01-30",
           "location": "Freshman Game High School School",
           "time": "5:30PM",
           "opponent": "Away vs. Colts Neck Colts Neck High Freshman Game",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
-        },
-        "Girls Level Game home (2026-02-03 4:00PM)": {
-          "date": "2026-02-03",
-          "location": "Basketball: Girls 4:00PM Manalapan Marlboro High (Cancelled) Freshman Game School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
         }
       },
       "Girls JV": {
         "Girls JV Game home": {
-          "date": "2025-12-16",
-          "location": "Basketball: Girls JV Game 4:00PM Ranney Prep Marlboro High (Cancelled) School Gym-Main",
+          "date": "2026-02-05",
+          "location": "Basketball: Girls JV Game 4:00PM Raritan Marlboro High School Gym-Main",
           "time": "4:00PM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home vs Away vs. Manchester Manchester Township High Township": {
+        "Girls JV Game home vs. Manchester Manchester Township High Township": {
           "date": "2025-12-18",
           "location": "Township School",
           "time": "3:45PM",
@@ -508,15 +284,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home (2025-12-20 10:00AM)": {
-          "date": "2025-12-20",
-          "location": "Basketball: Girls JV Game 10:00AM Toms River North Marlboro High H.S. School Gym-Main",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home vs Away vs. Mendham Mendham High": {
+        "Girls JV Game home vs. Mendham Mendham High": {
           "date": "2025-12-23",
           "location": "School",
           "time": "2:00PM",
@@ -524,39 +292,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home (2026-01-03 10:00AM)": {
-          "date": "2026-01-03",
-          "location": "Basketball: Girls JV Game 10:00AM Glen Ridge Marlboro High School Gym-Main",
-          "time": "10:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home (2026-01-05 4:00PM)": {
-          "date": "2026-01-05",
-          "location": "Basketball: Girls JV Game 4:00PM Long Branch Marlboro High (Cancelled) School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home (2026-01-08 4:00PM)": {
-          "date": "2026-01-08",
-          "location": "Basketball: Girls JV Game 4:00PM Shore Reg. H.S. Marlboro High School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home (2026-01-13 4:00PM)": {
-          "date": "2026-01-13",
-          "location": "Basketball: Girls JV Game 4:00PM Monmouth Reg. Marlboro High H.S. School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home vs Away vs. Manalapan High Manalapan": {
+        "Girls JV Game home vs. Manalapan High Manalapan": {
           "date": "2026-01-16",
           "location": "Basketball: Girls JV Game 4:00PM Away vs. Manalapan High Manalapan School",
           "time": "4:00PM",
@@ -564,7 +300,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home vs Away vs. Raritan Raritan": {
+        "Girls JV Game home vs. Raritan Raritan": {
           "date": "2026-01-20",
           "location": "Basketball: Girls JV Game 4:00PM Away vs. Raritan Raritan High School",
           "time": "4:00PM",
@@ -572,7 +308,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home vs Away vs. Long Long Branch High  Branch": {
+        "Girls JV Game home vs. Long Long Branch High Branch": {
           "date": "2026-01-22",
           "location": "Branch School",
           "time": "4:00PM",
@@ -580,7 +316,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home vs Away vs. Shore Reg. Shore Regional High H.S.": {
+        "Girls JV Game home vs. Shore Reg. Shore Regional High H.S.": {
           "date": "2026-01-27",
           "location": "H.S. School",
           "time": "4:00PM",
@@ -588,53 +324,29 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls JV Game home vs Away vs. Monmouth Monmouth Regional Reg. H.S.": {
+        "Girls JV Game home vs. Monmouth Monmouth Regional Reg. H.S.": {
           "date": "2026-01-30",
           "location": "Reg. H.S. High School",
           "time": "3:45PM",
           "opponent": "Away vs. Monmouth Monmouth Regional Reg. H.S.",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home (2026-02-03 4:00PM)": {
-          "date": "2026-02-03",
-          "location": "Basketball: Girls JV Game 4:00PM Manalapan Marlboro High School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls JV Game home (2026-02-05 4:00PM)": {
-          "date": "2026-02-05",
-          "location": "Basketball: Girls JV Game 4:00PM Raritan Marlboro High School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
         }
       },
       "Girls Varsity": {
         "Girls Varsity Game home": {
-          "date": "2025-12-16",
-          "location": "Basketball: Girls Varsity 4:30PM Ranney Prep Marlboro High Game School Gym-Main",
-          "time": "4:30PM",
+          "date": "2026-02-05",
+          "location": "Basketball: Girls Varsity 5:30PM Raritan Marlboro High Game School Gym-Main",
+          "time": "5:30PM",
           "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Manchester Game Manchester Township High Township": {
+        "Girls Varsity Game home vs. Manchester Game Manchester Township High Township": {
           "date": "2025-12-18",
           "location": "Township School",
           "time": "5:15PM",
           "opponent": "Away vs. Manchester Game Manchester Township High Township",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home (2025-12-20 11:30AM)": {
-          "date": "2025-12-20",
-          "location": "Basketball: Girls Varsity 11:30AM Toms River North Marlboro High Game H.S. School Gym-Main",
-          "time": "11:30AM",
-          "opponent": "",
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
@@ -646,7 +358,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Mendham Mendham High  Game": {
+        "Girls Varsity Game home vs. Mendham Mendham High Game": {
           "date": "2025-12-23",
           "location": "Game School",
           "time": "3:30PM",
@@ -654,7 +366,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Tournament home vs Away vs. East Holmdel": {
+        "Girls Varsity Tournament home vs. East Holmdel": {
           "date": "2025-12-28",
           "location": "Basketball: Girls Varsity 1:30PM Away vs. East Holmdel High School",
           "time": "1:30PM",
@@ -662,7 +374,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Tournament home vs Away vs. Holmdel": {
+        "Girls Varsity Tournament home vs. Holmdel": {
           "date": "2025-12-30",
           "location": "Basketball: Girls Varsity 11:45AM Away vs. Holmdel High School",
           "time": "11:45AM",
@@ -670,31 +382,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home (2026-01-03 11:30AM)": {
-          "date": "2026-01-03",
-          "location": "Basketball: Girls Varsity 11:30AM Glen Ridge Marlboro High Game School Gym-Main",
-          "time": "11:30AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home (2026-01-05 4:00PM)": {
-          "date": "2026-01-05",
-          "location": "Basketball: Girls Varsity 4:00PM Long Branch Marlboro High Game School Gym-Main",
-          "time": "4:00PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home (2026-01-08 5:30PM)": {
-          "date": "2026-01-08",
-          "location": "Basketball: Girls Varsity 5:30PM Shore Reg. H.S. Marlboro High Game School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Tournament home vs Away vs. Holmdel Donavan Catholic": {
+        "Girls Varsity Tournament home vs. Holmdel Donavan Catholic": {
           "date": "2026-01-10",
           "location": "Basketball: Girls Varsity 5:00PM Away vs. Holmdel Donavan Catholic HS",
           "time": "5:00PM",
@@ -702,15 +390,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home (2026-01-13 5:30PM)": {
-          "date": "2026-01-13",
-          "location": "Basketball: Girls Varsity 5:30PM Monmouth Reg. Marlboro High Game H.S. School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home vs Away vs. Manalapan High Game Manalapan": {
+        "Girls Varsity Game home vs. Manalapan High Game Manalapan": {
           "date": "2026-01-16",
           "location": "Basketball: Girls Varsity 5:30PM Away vs. Manalapan High Game Manalapan School",
           "time": "5:30PM",
@@ -718,7 +398,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Raritan Raritan": {
+        "Girls Varsity Game home vs. Raritan Raritan": {
           "date": "2026-01-20",
           "location": "Basketball: Girls Varsity 5:30PM Away vs. Raritan Raritan High School",
           "time": "5:30PM",
@@ -726,7 +406,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Shore Reg. Shore Regional High Game H.S.": {
+        "Girls Varsity Game home vs. Shore Reg. Shore Regional High Game H.S.": {
           "date": "2026-01-27",
           "location": "Game H.S. School",
           "time": "5:30PM",
@@ -734,7 +414,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Monmouth Monmouth Regional Game Reg. H.S.": {
+        "Girls Varsity Game home vs. Monmouth Monmouth Regional Game Reg. H.S.": {
           "date": "2026-01-30",
           "location": "Game Reg. H.S. High School",
           "time": "5:30PM",
@@ -742,31 +422,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home (2026-01-31 11:00AM)": {
-          "date": "2026-01-31",
-          "location": "Basketball: Girls Varsity 11:00AM Somerville Marlboro High (Cancelled) Game School Gym-Main",
-          "time": "11:00AM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home (2026-02-03 5:30PM)": {
-          "date": "2026-02-03",
-          "location": "Basketball: Girls Varsity 5:30PM Manalapan Marlboro High Game School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home (2026-02-05 5:30PM)": {
-          "date": "2026-02-05",
-          "location": "Basketball: Girls Varsity 5:30PM Raritan Marlboro High Game School Gym-Main",
-          "time": "5:30PM",
-          "opponent": "",
-          "homeOrAway": "Home",
-          "boyOrGirl": "Girl"
-        },
-        "Girls Varsity Game home vs Away vs. Ewing Ewing": {
+        "Girls Varsity Game home vs. Ewing Ewing": {
           "date": "2026-02-07",
           "location": "Basketball: Girls Varsity 10:00AM Away vs. Ewing Ewing High School",
           "time": "10:00AM",
@@ -774,7 +430,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Cherokee Cherokee High Game": {
+        "Girls Varsity Game home vs. Cherokee Cherokee High Game": {
           "date": "2026-02-19",
           "location": "Game School",
           "time": "4:00PM",
@@ -782,7 +438,7 @@
           "homeOrAway": "Home",
           "boyOrGirl": "Girl"
         },
-        "Girls Varsity Game home vs Away vs. Northern Northern Valley Game Valley Demarest Regional": {
+        "Girls Varsity Game home vs. Northern Northern Valley Game Valley Demarest Regional": {
           "date": "2026-02-21",
           "location": "Game Valley Demarest Regional High School",
           "time": "11:00AM",
