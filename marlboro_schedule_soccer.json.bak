@@ -1,0 +1,775 @@
+{
+  "Soccer": {
+    "boys": {
+      "Boys Level": {
+        "Boys Level Event home": {
+          "date": "2025-08-18",
+          "location": "Stadium Field BOYS SOCCER TRYOUTS",
+          "time": "7:00AM-9:30AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        }
+      },
+      "Boys Varsity": {
+        "Boys Varsity Game home vs Away vs. Steinert Steinert": {
+          "date": "2025-09-04",
+          "location": "Soccer: Boys Varsity 4:00PM Away vs. Steinert Steinert HS",
+          "time": "4:00PM",
+          "opponent": "Away vs. Steinert Steinert",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home": {
+          "date": "2025-09-08",
+          "location": "Soccer: Boys Varsity 6:30PM Christian Brothers Marlboro High Game Academy School",
+          "time": "6:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home vs Away vs. St. John St. John Vianney Tournament Vianney H.S.": {
+          "date": "2025-09-10",
+          "location": "Tournament Vianney H.S. High School",
+          "time": "6:30PM",
+          "opponent": "Away vs. St. John St. John Vianney Tournament Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Holmdel Holmdel": {
+          "date": "2025-09-12",
+          "location": "Soccer: Boys Varsity 4:00PM Away vs. Holmdel Holmdel High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2025-09-18 4:00PM)": {
+          "date": "2025-09-18",
+          "location": "Soccer: Boys Varsity 4:00PM Colts Neck High Marlboro High Game School School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Howell Howell": {
+          "date": "2025-09-20",
+          "location": "Soccer: Boys Varsity 10:00AM Away vs. Howell Howell High School Game H.S.",
+          "time": "10:00AM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home vs Away vs. Asbury Asbury": {
+          "date": "2025-09-25",
+          "location": "Soccer: Boys Varsity 4:00PM Away vs. Asbury Asbury Park High Tournament Park High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Asbury Asbury",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2025-09-27 10:00AM)": {
+          "date": "2025-09-27",
+          "location": "Soccer: Boys Varsity 10:00AM Rumson Fair Haven Marlboro High Game H.S. School",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Manalapan High Game Manalapan": {
+          "date": "2025-09-30",
+          "location": "Soccer: Boys Varsity 6:30PM Away vs. Manalapan High Game Manalapan School",
+          "time": "6:30PM",
+          "opponent": "Away vs. Manalapan High Game Manalapan",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home": {
+          "date": "2025-10-09",
+          "location": "Soccer: Boys Varsity 6:00PM Toms River South Marlboro High Tournament H.S. School Stadium Field",
+          "time": "6:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home (2025-10-14 3:00PM)": {
+          "date": "2025-10-14",
+          "location": "Stadium Field",
+          "time": "3:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home vs Away vs. Holmdel Holmdel": {
+          "date": "2025-10-16",
+          "location": "Soccer: Boys Varsity 5:30PM Away vs. Holmdel Holmdel High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home vs Away vs. Middletown High Shore Conference Middletown H.S.": {
+          "date": "2025-10-20",
+          "location": "Shore Conference Middletown H.S. School South",
+          "time": "5:45PM",
+          "opponent": "Away vs. Middletown High Shore Conference Middletown H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Tournament home (2025-10-23 3:00PM)": {
+          "date": "2025-10-23",
+          "location": "Soccer: Boys Varsity 3:00PM Manalapan Marlboro High Tournament School Stadium Field",
+          "time": "3:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Bridgewater- Raritan Game Bridgewater- Raritan": {
+          "date": "2025-10-25",
+          "location": "",
+          "time": "10:00AM",
+          "opponent": "Away vs. Bridgewater- Raritan Game Bridgewater- Raritan",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home vs Away vs. Ocean Ocean Township Game Twp.": {
+          "date": "2025-10-27",
+          "location": "Game Twp. High School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Ocean Ocean Township Game Twp.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Game home (2025-10-29 4:00PM)": {
+          "date": "2025-10-29",
+          "location": "Soccer: Boys Varsity 4:00PM Toms River East Marlboro High Game H.S. School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Championship home": {
+          "date": "2025-11-04",
+          "location": "Soccer: Boys Varsity 5:00PM New Brunswick Marlboro High NJSIAA Championship School Stadium Field",
+          "time": "5:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Championship home (2025-11-07 10:00AM)": {
+          "date": "2025-11-07",
+          "location": "Soccer: Boys Varsity 10:00AM South Brunswick Marlboro High NJSIAA Championship School Stadium Field",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Varsity Championship home (2025-11-10 6:00PM)": {
+          "date": "2025-11-10",
+          "location": "Soccer: Boys Varsity 6:00PM North Brunswick Marlboro High NJSIAA Championship School Stadium Field",
+          "time": "6:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        }
+      },
+      "Boys JV": {
+        "Boys JV Game home vs Away vs. Steinert Steinert": {
+          "date": "2025-09-04",
+          "location": "Soccer: Boys JV Game 4:00PM Away vs. Steinert Steinert HS",
+          "time": "4:00PM",
+          "opponent": "Away vs. Steinert Steinert",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home": {
+          "date": "2025-09-08",
+          "location": "Soccer: Boys JV Game 4:00PM Christian Brothers Marlboro High Academy School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home vs Away vs. St. John St. John Vianney Tournament Vianney H.S.": {
+          "date": "2025-09-10",
+          "location": "Tournament Vianney H.S. High School",
+          "time": "5:15PM",
+          "opponent": "Away vs. St. John St. John Vianney Tournament Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Holmdel Holmdel": {
+          "date": "2025-09-12",
+          "location": "Soccer: Boys JV Game 4:00PM Away vs. Holmdel Holmdel High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home (2025-09-18 4:00PM)": {
+          "date": "2025-09-18",
+          "location": "Soccer: Boys JV Game 4:00PM Colts Neck High Marlboro High School School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Howell Howell": {
+          "date": "2025-09-20",
+          "location": "Soccer: Boys JV Game 10:00AM Away vs. Howell Howell High School H.S.",
+          "time": "10:00AM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home vs Away vs. Asbury Asbury": {
+          "date": "2025-09-25",
+          "location": "Soccer: Boys JV 4:00PM Away vs. Asbury Asbury Park High Tournament Park High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Asbury Asbury",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home (2025-09-27 10:00AM)": {
+          "date": "2025-09-27",
+          "location": "Soccer: Boys JV Game 10:00AM Rumson Fair Haven Marlboro High H.S. School",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Game home vs Away vs. Manalapan Rec Manalapan": {
+          "date": "2025-09-30",
+          "location": "Soccer: Boys JV Game 4:00PM Away vs. Manalapan Rec Manalapan Center",
+          "time": "4:00PM",
+          "opponent": "Away vs. Manalapan Rec Manalapan",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home": {
+          "date": "2025-10-06",
+          "location": "Soccer: Boys JV 4:00PM Toms River North Marlboro High (Cancelled) Tournament H.S. School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home (2025-10-09 4:00PM)": {
+          "date": "2025-10-09",
+          "location": "Soccer: Boys JV 4:00PM Toms River South Marlboro High Tournament H.S. School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home (2025-10-10 4:00PM)": {
+          "date": "2025-10-10",
+          "location": "Soccer: Boys JV 4:00PM Shore Reg. H.S. Marlboro High Tournament School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home (2025-10-16 4:00PM)": {
+          "date": "2025-10-16",
+          "location": "Soccer: Boys JV 4:00PM Jackson Township Marlboro High Tournament School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home vs Away vs. Christian Christian Brothers Tournament Brothers Academy Academy": {
+          "date": "2025-10-21",
+          "location": "",
+          "time": "4:00PM",
+          "opponent": "Away vs. Christian Christian Brothers Tournament Brothers Academy Academy",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys JV Tournament home vs Away vs. Ocean Ocean Township Tournament Twp.": {
+          "date": "2025-10-23",
+          "location": "Tournament Twp. High School",
+          "time": "3:00PM",
+          "opponent": "Away vs. Ocean Ocean Township Tournament Twp.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        }
+      },
+      "Boys Freshman": {
+        "Boys Freshman Game home": {
+          "date": "2025-09-08",
+          "location": "Soccer: Boys Freshman 5:15PM Christian Brothers Marlboro High (Time Changed) Game Academy School",
+          "time": "5:15PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Tournament home vs Away vs. St. John St. John Vianney Tournament Vianney H.S.": {
+          "date": "2025-09-10",
+          "location": "Tournament Vianney H.S. High School",
+          "time": "3:45PM",
+          "opponent": "Away vs. St. John St. John Vianney Tournament Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Game home vs Away vs. Holmdel Holmdel": {
+          "date": "2025-09-12",
+          "location": "Soccer: Boys Freshman 5:30PM Away vs. Holmdel Holmdel High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. Holmdel Holmdel",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Game home vs Away vs. Howell Howell": {
+          "date": "2025-09-20",
+          "location": "Soccer: Boys Freshman 11:30AM Away vs. Howell Howell High School Game H.S.",
+          "time": "11:30AM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Game home (2025-09-27 10:00AM)": {
+          "date": "2025-09-27",
+          "location": "Soccer: Boys Freshman 10:00AM Rumson Fair Haven Marlboro High (Time Changed) Game H.S. School",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Game home vs Away vs. Manalapan Rec Game Manalapan": {
+          "date": "2025-09-30",
+          "location": "Soccer: Boys Freshman 4:00PM Away vs. Manalapan Rec Game Manalapan Center",
+          "time": "4:00PM",
+          "opponent": "Away vs. Manalapan Rec Game Manalapan",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Tournament home": {
+          "date": "2025-10-06",
+          "location": "Soccer: Boys Freshman 5:30PM Toms River North Marlboro High (Cancelled) Tournament H.S. School",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Tournament home (2025-10-09 4:00PM)": {
+          "date": "2025-10-09",
+          "location": "Soccer: Boys Freshman 4:00PM Toms River South Marlboro High Tournament H.S. School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        },
+        "Boys Freshman Tournament home (2025-10-10 4:00PM)": {
+          "date": "2025-10-10",
+          "location": "Soccer: Boys Freshman 4:00PM Ocean Twp. Marlboro High Tournament School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Boy"
+        }
+      }
+    },
+    
+    "girls": {
+      "Girls Varsity": {
+        "Girls Varsity Game home": {
+          "date": "2025-09-06",
+          "location": "Soccer: Girls Varsity 10:00AM Brick Township Marlboro High Game H.S. School Stadium Field",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2025-09-09 4:00PM)": {
+          "date": "2025-09-09",
+          "location": "Soccer: Girls Varsity 4:00PM Trinity Hall Marlboro High Game School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home": {
+          "date": "2025-09-11",
+          "location": "Soccer: Girls Varsity 6:30PM Brick Memorial H.S. Marlboro High (Time Changed) Tournament School Stadium Field",
+          "time": "6:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Rumson Rumson-Fair Haven Game Fair Haven H.S.": {
+          "date": "2025-09-15",
+          "location": "Game Fair Haven H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Rumson Rumson-Fair Haven Game Fair Haven H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. St. John St. John Vianney Game Vianney H.S.": {
+          "date": "2025-09-26",
+          "location": "Game Vianney H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. St. John St. John Vianney Game Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Colts Neck Colts Neck High Game": {
+          "date": "2025-09-29",
+          "location": "Game High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High Game",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2025-09-30 4:00PM)": {
+          "date": "2025-09-30",
+          "location": "Soccer: Girls Varsity 4:00PM Middletown H.S. Marlboro High Game North School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home vs Away vs. Manchester Tournament Manchester Township High Township": {
+          "date": "2025-10-03",
+          "location": "Township School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Manchester Tournament Manchester Township High Township",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home (2025-10-07 4:00PM)": {
+          "date": "2025-10-07",
+          "location": "Soccer: Girls Varsity 4:00PM Pinelands Regional Marlboro High Tournament H.S. School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Monmouth Monmouth Regional  Game Reg. H.S.": {
+          "date": "2025-10-09",
+          "location": "Game Reg. H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Monmouth Monmouth Regional  Game Reg. H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2025-10-11 10:00AM)": {
+          "date": "2025-10-11",
+          "location": "Soccer: Girls Varsity 10:00AM East Brunswick Marlboro High Game School Stadium Field",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Howell Howell": {
+          "date": "2025-10-13",
+          "location": "Soccer: Girls Varsity 5:30PM Away vs. Howell Howell High School (Cancelled) Game H.S.",
+          "time": "5:30PM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home (2025-10-15 3:45PM)": {
+          "date": "2025-10-15",
+          "location": "Stadium Field",
+          "time": "3:45PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home vs Away vs. Central Central Regional Shore Conference Reg. H.S.": {
+          "date": "2025-10-17",
+          "location": "Shore Conference Reg. H.S. High School",
+          "time": "3:00PM",
+          "opponent": "Away vs. Central Central Regional Shore Conference Reg. H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home (2025-10-21 4:00PM)": {
+          "date": "2025-10-21",
+          "location": "Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2025-10-21 4:00PM)": {
+          "date": "2025-10-21",
+          "location": "Soccer: Girls Varsity 4:00PM Steinert Marlboro High (Postponed) Game School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2025-10-23 6:00PM)": {
+          "date": "2025-10-23",
+          "location": "Soccer: Girls Varsity 6:00PM Freehold Boro High Marlboro High (Cancelled) Game School School Stadium Field",
+          "time": "6:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Tournament home (2025-10-23 6:00PM)": {
+          "date": "2025-10-23",
+          "location": "Soccer: Girls Varsity 6:00PM Lacey H.S. Marlboro High Tournament School Stadium Field",
+          "time": "6:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home (2025-10-24 4:00PM)": {
+          "date": "2025-10-24",
+          "location": "Soccer: Girls Varsity 4:00PM Red Bank Regional Marlboro High Game School Stadium Field",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Freehold Freehold Boro High  Game Boro": {
+          "date": "2025-10-27",
+          "location": "Game Boro High School School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Freehold Freehold Boro High  Game Boro",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Game home vs Away vs. Freehold Freehold Boro High Game Boro": {
+          "date": "2025-10-29",
+          "location": "Game Boro High School School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Freehold Freehold Boro High Game Boro",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Varsity Championship home vs Away vs. Freehold Freehold Township NJSIAA Championship Township H.S.": {
+          "date": "2025-11-04",
+          "location": "NJSIAA Championship Township H.S. High School",
+          "time": "2:00PM",
+          "opponent": "Away vs. Freehold Freehold Township NJSIAA Championship Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        }
+      },
+      "Girls JV": {
+        "Girls JV Game home": {
+          "date": "2025-09-06",
+          "location": "Soccer: Girls JV Game 10:00AM Brick Township Marlboro High (Cancelled) H.S. School",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2025-09-09 4:00PM)": {
+          "date": "2025-09-09",
+          "location": "Soccer: Girls JV Game 4:00PM Trinity Hall Marlboro High School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Tournament home": {
+          "date": "2025-09-11",
+          "location": "Soccer: Girls JV 4:00PM Brick Memorial H.S. Marlboro High Tournament School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Rumson Meadow Ridge": {
+          "date": "2025-09-15",
+          "location": "Soccer: Girls JV Game 4:00PM Away vs. Rumson Meadow Ridge Park, (Location Changed) Fair Haven H.S. Rumson",
+          "time": "4:00PM",
+          "opponent": "Away vs. Rumson Meadow Ridge",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. St. John St. John Vianney Vianney H.S.": {
+          "date": "2025-09-26",
+          "location": "Vianney H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. St. John St. John Vianney Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Colts Neck Colts Neck High": {
+          "date": "2025-09-29",
+          "location": "High School School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2025-09-30 4:00PM)": {
+          "date": "2025-09-30",
+          "location": "Soccer: Girls JV Game 4:00PM Middletown H.S. Marlboro High North School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Tournament home vs Away vs. Manchester Tournament Manchester Township High Township": {
+          "date": "2025-10-03",
+          "location": "Township School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Manchester Tournament Manchester Township High Township",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Tournament home (2025-10-07 4:00PM)": {
+          "date": "2025-10-07",
+          "location": "Soccer: Girls JV 4:00PM Pinelands Regional Marlboro High (Cancelled) Tournament H.S. School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Monmouth Monmouth Regional  Reg. H.S.": {
+          "date": "2025-10-09",
+          "location": "Reg. H.S. High School",
+          "time": "4:00PM",
+          "opponent": "Away vs. Monmouth Monmouth Regional  Reg. H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2025-10-11 10:00AM)": {
+          "date": "2025-10-11",
+          "location": "Soccer: Girls JV Game 10:00AM East Brunswick Marlboro High School",
+          "time": "10:00AM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Howell Howell": {
+          "date": "2025-10-13",
+          "location": "Soccer: Girls JV Game 4:00PM Away vs. Howell Howell High School (Cancelled) H.S.",
+          "time": "4:00PM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2025-10-21 4:00PM)": {
+          "date": "2025-10-21",
+          "location": "Soccer: Girls JV Game 4:00PM Steinert Marlboro High (Cancelled) School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2025-10-23 4:00PM)": {
+          "date": "2025-10-23",
+          "location": "Soccer: Girls JV Game 4:00PM Freehold Boro High Marlboro High (Cancelled) School School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home (2025-10-24 4:00PM)": {
+          "date": "2025-10-24",
+          "location": "Soccer: Girls JV Game 4:00PM Red Bank Regional Marlboro High School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls JV Game home vs Away vs. Freehold Freehold Boro High  Boro": {
+          "date": "2025-10-27",
+          "location": "Boro High School School",
+          "time": "3:45PM",
+          "opponent": "Away vs. Freehold Freehold Boro High  Boro",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        }
+      },
+      "Girls Freshman": {
+        "Girls Freshman Tournament home": {
+          "date": "2025-09-11",
+          "location": "Soccer: Girls Freshman 4:00PM Brick Memorial H.S. Marlboro High (Cancelled) Tournament School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home vs Away vs. Rumson Meadow Ridge": {
+          "date": "2025-09-15",
+          "location": "Soccer: Girls Freshman 5:30PM Away vs. Rumson Meadow Ridge Park, (Location Changed) Game Fair Haven H.S. Rumson",
+          "time": "5:30PM",
+          "opponent": "Away vs. Rumson Meadow Ridge",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home": {
+          "date": "2025-09-19",
+          "location": "Soccer: Girls Freshman 4:00PM Freehold Township Marlboro High Game H.S. School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home (2025-09-20 5:00PM)": {
+          "date": "2025-09-20",
+          "location": "Soccer: Girls Freshman 5:00PM Ocean Twp. Marlboro High (Cancelled) Game School",
+          "time": "5:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home vs Away vs. St. John St. John Vianney Game Vianney H.S.": {
+          "date": "2025-09-26",
+          "location": "Game Vianney H.S. High School",
+          "time": "5:30PM",
+          "opponent": "Away vs. St. John St. John Vianney Game Vianney H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home vs Away vs. Colts Neck Colts Neck High Game": {
+          "date": "2025-09-29",
+          "location": "Game High School School",
+          "time": "5:15PM",
+          "opponent": "Away vs. Colts Neck Colts Neck High Game",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home vs Away vs. Freehold Freehold Township  Game Township H.S.": {
+          "date": "2025-09-30",
+          "location": "Game Township H.S. High School",
+          "time": "5:15PM",
+          "opponent": "Away vs. Freehold Freehold Township  Game Township H.S.",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Tournament home (2025-10-07 5:30PM)": {
+          "date": "2025-10-07",
+          "location": "Soccer: Girls Freshman 5:30PM Pinelands Regional Marlboro High (Cancelled) Tournament H.S. School",
+          "time": "5:30PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home vs Away vs. Howell Howell": {
+          "date": "2025-10-13",
+          "location": "Soccer: Girls Freshman 5:30PM Away vs. Howell Howell High School (Cancelled) Game H.S.",
+          "time": "5:30PM",
+          "opponent": "Away vs. Howell Howell",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home (2025-10-16 4:00PM)": {
+          "date": "2025-10-16",
+          "location": "Soccer: Girls Freshman 4:00PM Colts Neck High Marlboro High Game School School",
+          "time": "4:00PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        },
+        "Girls Freshman Game home (2025-10-24 5:15PM)": {
+          "date": "2025-10-24",
+          "location": "Soccer: Girls Freshman 5:15PM Red Bank Regional Marlboro High Game School",
+          "time": "5:15PM",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Girl"
+        }
+      }
+    }
+  }
+}

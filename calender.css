@@ -113,8 +113,8 @@ main {
 }
 
 .emoji-btn {
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   color: #fff;
   padding: 5px 8px;
   border-radius: 8px;
@@ -173,6 +173,12 @@ main {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  transition: all 0.2s ease;
+}
+
+.event-tile:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
 
 /* alternating colors */
@@ -241,4 +247,22 @@ main {
   background: var(--tile-blue);
   color: var(--gold);
   text-align: center;
+}
+
+/* Date modal: white text for small details */
+#dateModal .text-muted {
+  color: #ffffff !important;
+}
+
+/* Detail buttons: yellow background, white outline and text */
+#dateModal .btn-outline-primary {
+  background-color: #ffffff;
+  color: #000000;
+  border-color: #000000;
+}
+
+#dateModal .btn-outline-primary:hover {
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #ffffff;
 }

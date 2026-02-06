@@ -1,0 +1,114 @@
+{
+  "Track": {
+    "coed": {
+      "Coed Level": {
+        "Coed Level Event home": {
+          "date": "2025-11-24",
+          "location": "",
+          "time": "",
+          "opponent": "",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      },
+      "Coed Varsity": {
+        "Coed Varsity Championship home vs Away vs. TBA, TBA Bennett Indoor NJSIAA Championship": {
+          "date": "2026-01-17",
+          "location": "Winter Track: Varsity 10:00AM Away vs. TBA, TBA Bennett Indoor NJSIAA Championship Complex",
+          "time": "10:00AM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor NJSIAA Championship",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Bennett Indoor Rebel Shot and": {
+          "date": "2026-01-21",
+          "location": "Winter Track: Varsity 4:00PM Away vs. TBA, TBA Bennett Indoor Rebel Shot and Field Invitational Complex Series",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor Rebel Shot and",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs Away vs. TBA, TBA Bennett Indoor Monmouth County": {
+          "date": "2026-01-23",
+          "location": "Winter Track: Varsity 4:00PM Away vs. TBA, TBA Bennett Indoor Monmouth County Complex",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor Monmouth County",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs Away vs. TBA, TBA Bennett Indoor Frosh/Soph": {
+          "date": "2026-01-26",
+          "location": "Winter Track: Varsity 4:30PM Away vs. TBA, TBA Bennett Indoor Frosh/Soph Complex",
+          "time": "4:30PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor Frosh/Soph",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Bennett Indoor Throwers and": {
+          "date": "2026-01-27",
+          "location": "Winter Track: Varsity 4:00PM Away vs. TBA, TBA Bennett Indoor Throwers and Field Invitational Complex Series 6",
+          "time": "4:00PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor Throwers and",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs Away vs. TBA, TBA Bennett Indoor Frosh/Soph (2026-01-27 4:30PM)": {
+          "date": "2026-01-27",
+          "location": "Winter Track: Varsity 4:30PM Away vs. TBA, TBA Bennett Indoor Frosh/Soph Complex",
+          "time": "4:30PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor Frosh/Soph",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Event home vs Away vs. TBA, TBA Bennett Indoor Shore Conference": {
+          "date": "2026-01-29",
+          "location": "Winter Track: Varsity 4:30PM Away vs. TBA, TBA Bennett Indoor Shore Conference Complex",
+          "time": "4:30PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor Shore Conference",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Ocean Breeze": {
+          "date": "2026-01-31",
+          "location": "Winter Track: Varsity 9:00AM Away vs. TBA, TBA Ocean Breeze Park,",
+          "time": "9:00AM",
+          "opponent": "Away vs. TBA, TBA Ocean Breeze",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Invitational home vs Away vs. TBA, TBA Ocean Breeze (2026-02-01 9:00AM)": {
+          "date": "2026-02-01",
+          "location": "Winter Track: Varsity 9:00AM Away vs. TBA, TBA Ocean Breeze Park,",
+          "time": "9:00AM",
+          "opponent": "Away vs. TBA, TBA Ocean Breeze",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Championship home vs Away vs. TBA, TBA Bennett Indoor NJSIAA Championship (2026-02-13 4:30PM)": {
+          "date": "2026-02-13",
+          "location": "Winter Track: Varsity 4:30PM Away vs. TBA, TBA Bennett Indoor NJSIAA Championship Complex",
+          "time": "4:30PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor NJSIAA Championship",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Championship home vs Away vs. TBA, TBA Bennett Indoor NJSIAA Championship (2026-02-22 4:30PM)": {
+          "date": "2026-02-22",
+          "location": "Winter Track: Varsity 4:30PM Away vs. TBA, TBA Bennett Indoor NJSIAA Championship Complex",
+          "time": "4:30PM",
+          "opponent": "Away vs. TBA, TBA Bennett Indoor NJSIAA Championship",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        },
+        "Coed Varsity Meet home vs Away vs. TBA, TBA Ocean Breeze": {
+          "date": "2026-03-08",
+          "location": "Winter Track: Varsity 10:00AM Away vs. TBA, TBA Ocean Breeze Park,",
+          "time": "10:00AM",
+          "opponent": "Away vs. TBA, TBA Ocean Breeze",
+          "homeOrAway": "Home",
+          "boyOrGirl": "Coed"
+        }
+      }
+    }
+  }
+}
