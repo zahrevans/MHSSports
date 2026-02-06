@@ -249,7 +249,7 @@ main {
   text-align: center;
 }
 
-/* Date modal: white text for small details */
+/* Date modal: white text for small details */ 
 #dateModal .text-muted {
   color: #ffffff !important;
 }
