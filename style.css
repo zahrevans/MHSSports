@@ -105,16 +105,12 @@ body {
   right: 0;
   bottom: 0;
   background:
-    radial-gradient(
-      circle at 20% 50%,
+    radial-gradient(circle at 20% 50%,
       rgba(255, 215, 0, 0.15) 0%,
-      transparent 50%
-    ),
-    radial-gradient(
-      circle at 80% 80%,
+      transparent 50%),
+    radial-gradient(circle at 80% 80%,
       rgba(99, 102, 241, 0.08) 0%,
-      transparent 50%
-    );
+      transparent 50%);
   animation: float 12s ease-in-out infinite;
 }
 
@@ -133,22 +129,26 @@ body {
 }
 
 @keyframes float {
+
   0%,
   100% {
     transform: translateY(0px);
   }
+
   50% {
     transform: translateY(-40px);
   }
 }
 
 @keyframes glow {
+
   0%,
   100% {
     text-shadow:
       0 0 20px rgba(255, 215, 0, 0.3),
       2px 2px 8px rgba(0, 0, 0, 0.4);
   }
+
   50% {
     text-shadow:
       0 0 30px rgba(255, 215, 0, 0.5),
@@ -166,6 +166,7 @@ body {
     opacity: 0;
     transform: translateY(-60px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -240,6 +241,7 @@ body {
   transform: translateY(-5px);
   box-shadow: 0 16px 40px rgba(255, 215, 0, 0.5);
 }
+
 .highlights {
   background: white;
   padding: 4rem 2rem;
@@ -252,8 +254,7 @@ body {
   z-index: 10;
   box-shadow: var(--shadow-lg);
   border-radius: 15px;
-  margin-left: 2rem;
-  margin-right: 2rem;
+
 }
 
 .highlight-card {
@@ -262,22 +263,18 @@ body {
   transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   border-left: 5px solid var(--gold);
   border-radius: 8px;
-  background: linear-gradient(
-    135deg,
-    rgba(255, 215, 0, 0.02) 0%,
-    rgba(99, 102, 241, 0.02) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(255, 215, 0, 0.02) 0%,
+      rgba(99, 102, 241, 0.02) 100%);
 }
 
 .highlight-card:hover {
   transform: translateY(-8px);
   box-shadow: 0 15px 40px rgba(0, 31, 63, 0.2);
   border-left-color: var(--accent-purple);
-  background: linear-gradient(
-    135deg,
-    rgba(255, 215, 0, 0.08) 0%,
-    rgba(99, 102, 241, 0.08) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(255, 215, 0, 0.08) 0%,
+      rgba(99, 102, 241, 0.08) 100%);
 }
 
 .highlight-number {
@@ -347,12 +344,10 @@ body {
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(255, 215, 0, 0.1),
-    transparent
-  );
+  background: linear-gradient(90deg,
+      transparent,
+      rgba(255, 215, 0, 0.1),
+      transparent);
   transition: left 0.5s ease;
 }
 
@@ -432,11 +427,9 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(
-    135deg,
-    rgba(99, 102, 241, 0.1) 0%,
-    rgba(255, 215, 0, 0.1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(99, 102, 241, 0.1) 0%,
+      rgba(255, 215, 0, 0.1) 100%);
   opacity: 0;
   transition: opacity 0.4s ease;
   z-index: 1;
@@ -453,7 +446,7 @@ body {
   opacity: 1;
 }
 
-.contact-card > * {
+.contact-card>* {
   position: relative;
   z-index: 2;
 }
